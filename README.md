@@ -1,2 +1,2 @@
-# encrypted_dns_resolvers
+# Publicly available encrypted DNS resolvers
 Collect publicly available encrypted DNS resolvers in a parseable format
