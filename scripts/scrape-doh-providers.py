@@ -24,6 +24,8 @@ do_not_include = ['my.nextdns.io', 'blog.cloudflare.com', 'https://blog.cloudfla
 
 
 def get_doh_providers():
+    #create a set for the providers' name to alter them when multiple exist with the same name
+    providers=dict()
     found_table = False
     with urllib.request.urlopen('https://raw.githubusercontent.com/wiki/curl/curl/DNS-over-HTTPS.md') as fp:
         for line in fp:
@@ -54,7 +56,14 @@ def get_doh_providers():
                 if len(doh_url_matches) == 0:
                     continue
                 else:
+                    #set a provider counter here
+                    provider_count=1
+                    #store original provider name
+                    provider_origin_name=provider_name
                     for doh_url in doh_url_matches:
+                        #if more URLs exists for a single provider name, make a custom name for then with _1,_2,_3, etc. to make them unique
+                        if provider_count > 1: #first occurence can remain as it is
+                            provider_name="{}_{}".format(provider_origin_name,provider_count) #otherwise, update name
                         if doh_url[0] in do_not_include:
                             continue
                         yield {
@@ -65,6 +74,7 @@ def get_doh_providers():
                             'port': doh_url[1] if len(doh_url[1]) != 0 else '443',
                             'path': doh_url[2],
                         }
+                        provider_count+=1
             if found_table and line.startswith('#'):
                 break
     return
