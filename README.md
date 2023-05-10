@@ -10,16 +10,17 @@ So far, there is only one credible source I found, which is the Wiki page of cUR
  - is easy to view with human eyes, but difficult to parse by machines effectively.
 
  
- I found a nice [script](https://gist.github.com/kimbo/dd65d539970e3a28a10628f15398247b) that can do some heavylifting when it comes to parsing. In fact, I am using that script to get the raw yet meaningful data from [cURL wiki](https://github.com/curl/curl/wiki/DNS-over-HTTPS). 
+ I found a nice [script](https://gist.github.com/kimbo/dd65d539970e3a28a10628f15398247b) that can do some heavylifting when it comes to parsing. In fact, I am using that script to get the raw yet meaningful data from [cURL wiki](https://github.com/curl/curl/wiki/DNS-over-HTTPS) with some minor modification to the code.
  
  Afterward, further scripting is done to:
   - get the bootstrap IP for the resolvers
   - prettify output
+  - auto-append a counter to the resolvers' name if multiple URIs exist for them
   - make it a correct JSON file
 
-Last but not least, there is still some need for manual labor to remove duplicates and/or rename some resolvers that are shown with the same name (e.g., Quad9) but eventually have different versions (e.g., recommended, secured, unsecured, secured w/ ECS support).
-
-Accordingly, even though I have the scripts in the `scripts/` directory, running those scripts on your own is not recommended to get the latest list of resolvers unless you know what you are doing.
+Last but not least, there might still be some need for manual labor to make the final JSON format parseable. 
+Accordingly, even though I have the scripts in the `scripts/` directory, running those scripts on your own is only advised if you know what you are doing.
+However, once you have the JSON, a quick syntactic check can be done via `jq`, e.g., `cat doh_resolvers_data_curl_20230510.csv| jq`. If the output is JSON instead of an error, then you are on the right track :)
 
 # Why only cURL wiki?
 I have encountered other lists of encrypted DNS resolvers, mostly from academia, as an outcome of related research.
