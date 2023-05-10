@@ -43,14 +43,14 @@ do
   base_domain=$(echo $uri|cut -d '/' -f 3)
   # this can return more than one IP, so we make multiple bootstrap rows accordingly (if needed)
   bootstrap_id=1
-  bootstrap_id_max=$(dig +short $base_domain A |grep -v '\.$' |wc -l)
+  bootstrap_id_max=$(dig +short $base_domain A |grep -v '\.$' |grep -v ";;" |wc -l) #a line that starts with ;; is an error, so we remove that from the returned lines
   #in case the DNS resolution fails,i.e., no IP returned we add bootstrap_id: UNKNOWN
   #check the bootstrap_id_max, if it is 0, then no IP returned
   if [ $bootstrap_id_max -eq 0 ]
   then
     echo -e "\t\t\"bootstrap_${bootstrap_id}\": \"UNKNOWN\"" >> $output
   else
-    for ip in $(dig +short $base_domain A |grep -v '\.$') #the last grep gets rid of CNAME records
+    for ip in $(dig +short $base_domain A |grep -v '\.$' |grep -v ";;") #the last grep gets rid of CNAME records
     do
       if [ $bootstrap_id -ne $bootstrap_id_max ]
       then
