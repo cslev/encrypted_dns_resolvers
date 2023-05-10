@@ -13,7 +13,7 @@ So far, there is only one credible source I found, which is the Wiki page of cUR
  I found a nice [script](https://gist.github.com/kimbo/dd65d539970e3a28a10628f15398247b) that can do some heavylifting when it comes to parsing. In fact, I am using that script to get the raw yet meaningful data from [cURL wiki](https://github.com/curl/curl/wiki/DNS-over-HTTPS) with some minor modification to the code.
  
  Afterward, further scripting is done to:
-  - get the bootstrap IP for the resolvers
+  - get the bootstrap IP for the resolvers (based on Quad9's recursive resolver in the SEA area)
   - prettify output
   - auto-append a counter to the resolvers' name if multiple URIs exist for them
   - make it a correct JSON file
