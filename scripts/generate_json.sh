@@ -3,9 +3,16 @@
 ROOT="$(dirname "$0")"
 source $ROOT/extra.sh
 
+
 c_print "White" "Get the DoH resolvers from CURL github wiki using scrape-doh-providers.py script..."
 d=$(date '+%Y%m%d')
-python3 scrape-doh-providers.py 'o["name"],o["url"]' >doh_resolvers_data_curl_${d}.lst
+
+c_print "White" "Checking python3..." 1
+which python3
+retval=$(echo $?)
+check_retval $retval
+
+python3 scrape-doh-providers.py 'o["name"],o["url"]' > doh_resolvers_data_curl_${d}.lst
 
 c_print "White" "Convert downloaded data into simple csv..."
 cat doh_resolvers_data_curl_${d}.lst |sed -e "s/(//g" |sed -e "s/)//g" |sed -e "s/'//g" |sed -e "s/ //g" > doh_resolvers_data_curl_${d}.csv
