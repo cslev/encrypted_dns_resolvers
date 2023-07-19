@@ -18,6 +18,19 @@ So far, there is only one credible source I found, which is the Wiki page of cUR
   - auto-append a counter to the resolvers' name if multiple URIs exist for them
   - make it a correct JSON file
 
+So an entry in a JSON file eventually looks like this:
+```	
+"UnstoppableDomains" : {
+		"id": 412,
+		"name": "UnstoppableDomains",
+		"uri": "https://resolver.unstoppable.io/dns-query",
+		"bootstrap_1": "104.18.165.219",
+		"bootstrap_2": "104.18.166.219"
+	},
+
+
+```
+
 Last but not least, there might still be some need for manual labor to make the final JSON format parseable. 
 Accordingly, even though I have the scripts in the `scripts/` directory, running those scripts on your own is only advised if you know what you are doing.
 However, once you have the JSON, a quick syntactic check can be done via `jq`, e.g., `cat doh_resolvers_data_curl_20230510.csv| jq`. If the output is JSON instead of an error, then you are on the right track :)
