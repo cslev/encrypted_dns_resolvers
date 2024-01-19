@@ -1,0 +1,3012 @@
+{
+	"ABD" : {
+		"id": 1,
+		"name": "ABD",
+		"uri": "https://adguard.abd.ong/dns-query",
+		"bootstrap_1": "49.12.99.89"
+	},
+	"abdullahabas.de" : {
+		"id": 2,
+		"name": "abdullahabas.de",
+		"uri": "https://dns.abdullahabas.de/dns-query",
+		"bootstrap_1": "194.34.232.201"
+	},
+	"abel.waringer-atg.de" : {
+		"id": 3,
+		"name": "abel.waringer-atg.de",
+		"uri": "https://abel.waringer-atg.de/dns-query",
+		"bootstrap_1": "185.183.159.34"
+	},
+	"AdFilter" : {
+		"id": 4,
+		"name": "AdFilter",
+		"uri": "https://adl.adfilter.net/dns-query",
+		"bootstrap_1": "163.47.117.176"
+	},
+	"AdFilter_2" : {
+		"id": 5,
+		"name": "AdFilter_2",
+		"uri": "https://per.adfilter.net/dns-query",
+		"bootstrap_1": "203.29.241.76"
+	},
+	"AdFilter_3" : {
+		"id": 6,
+		"name": "AdFilter_3",
+		"uri": "https://syd.adfilter.net/dns-query",
+		"bootstrap_1": "112.213.32.219"
+	},
+	"AdGuard" : {
+		"id": 7,
+		"name": "AdGuard",
+		"uri": "https://dns.adguard-dns.com/dns-query",
+		"bootstrap_1": "94.140.15.15",
+		"bootstrap_2": "94.140.14.14"
+	},
+	"AdGuard_2" : {
+		"id": 8,
+		"name": "AdGuard_2",
+		"uri": "https://family.adguard-dns.com/dns-query",
+		"bootstrap_1": "94.140.14.15",
+		"bootstrap_2": "94.140.15.16"
+	},
+	"AdGuard_3" : {
+		"id": 9,
+		"name": "AdGuard_3",
+		"uri": "https://unfiltered.adguard-dns.com/dns-query",
+		"bootstrap_1": "94.140.14.140",
+		"bootstrap_2": "94.140.14.141"
+	},
+	"AdrianLam" : {
+		"id": 10,
+		"name": "AdrianLam",
+		"uri": "https://dns.adrianlam.com/dns-query",
+		"bootstrap_1": "35.192.15.109"
+	},
+	"Aerro" : {
+		"id": 11,
+		"name": "Aerro",
+		"uri": "https://dns.aerro.in/dns-query",
+		"bootstrap_1": "18.216.143.126"
+	},
+	"AhaDNSBlitz" : {
+		"id": 12,
+		"name": "AhaDNSBlitz",
+		"uri": "https://blitz.ahadns.com",
+		"bootstrap_1": "172.67.69.149",
+		"bootstrap_2": "104.26.2.137",
+		"bootstrap_3": "104.26.3.137"
+	},
+	"AhaDNSBlitz_2" : {
+		"id": 13,
+		"name": "AhaDNSBlitz_2",
+		"uri": "https://blitz.ahadns.com/1",
+		"bootstrap_1": "104.26.3.137",
+		"bootstrap_2": "172.67.69.149",
+		"bootstrap_3": "104.26.2.137"
+	},
+	"AhaDNS" : {
+		"id": 14,
+		"name": "AhaDNS",
+		"uri": "https://doh.nl.ahadns.net/dns-query",
+		"bootstrap_1": "5.2.75.75"
+	},
+	"alekberg" : {
+		"id": 15,
+		"name": "alekberg",
+		"uri": "https://dnsnl.alekberg.net/dns-query",
+		"bootstrap_1": "89.38.131.38"
+	},
+	"alekberg_2" : {
+		"id": 16,
+		"name": "alekberg_2",
+		"uri": "https://dnsse.alekberg.net/dns-query",
+		"bootstrap_1": "45.153.187.96"
+	},
+	"alekberg_3" : {
+		"id": 17,
+		"name": "alekberg_3",
+		"uri": "https://dnsnl-noads.alekberg.net/dns-query",
+		"bootstrap_1": "89.38.131.38"
+	},
+	"alekberg_4" : {
+		"id": 18,
+		"name": "alekberg_4",
+		"uri": "https://dnsse-noads.alekberg.net/dns-query",
+		"bootstrap_1": "45.153.187.96"
+	},
+	"AlibabaPublicDNS" : {
+		"id": 19,
+		"name": "AlibabaPublicDNS",
+		"uri": "https://dns.alidns.com/dns-query",
+		"bootstrap_1": "223.6.6.6",
+		"bootstrap_2": "223.5.5.5"
+	},
+	"amlegion.org" : {
+		"id": 20,
+		"name": "amlegion.org",
+		"uri": "https://mailer.amlegion.org/dns-query",
+		"bootstrap_1": "192.99.125.157"
+	},
+	"Andrew" : {
+		"id": 21,
+		"name": "Andrew",
+		"uri": "https://dns.andrewnw.xyz/dns-query",
+		"bootstrap_1": "135.181.83.162"
+	},
+	"Andrews&Arnold" : {
+		"id": 22,
+		"name": "Andrews&Arnold",
+		"uri": "https://dns.aa.net.uk/dns-query",
+		"bootstrap_1": "217.169.20.23",
+		"bootstrap_2": "217.169.20.22"
+	},
+	"Anudeep" : {
+		"id": 23,
+		"name": "Anudeep",
+		"uri": "https://secure.anudeep.me/dns-query",
+		"bootstrap_1": "152.70.65.93"
+	},
+	"API" : {
+		"id": 24,
+		"name": "API",
+		"uri": "https://noads.api.org.pl/dns-query",
+		"bootstrap_1": "5.226.89.76",
+		"bootstrap_2": "91.189.27.54"
+	},
+	"Aquilenet" : {
+		"id": 25,
+		"name": "Aquilenet",
+		"uri": "https://dns.aquilenet.fr/dns-query",
+		"bootstrap_1": "45.67.81.23"
+	},
+	"ares-taiwan.com" : {
+		"id": 26,
+		"name": "ares-taiwan.com",
+		"uri": "https://dns.ares-taiwan.com/dns-query",
+		"bootstrap_1": "114.41.222.15"
+	},
+	"Artikel10" : {
+		"id": 27,
+		"name": "Artikel10",
+		"uri": "https://dns.artikel10.org/dns-query",
+		"bootstrap_1": "217.197.91.153"
+	},
+	"AsteroidB612" : {
+		"id": 28,
+		"name": "AsteroidB612",
+		"uri": "https://dns.b612.me/dns-query",
+		"bootstrap_1": "193.112.16.45",
+		"bootstrap_2": "193.112.107.80",
+		"bootstrap_3": "106.55.44.79",
+		"bootstrap_4": "139.199.163.65"
+	},
+	"atsilva.link" : {
+		"id": 29,
+		"name": "atsilva.link",
+		"uri": "https://dns.atsilva.link/dns-query",
+		"bootstrap_1": "212.227.205.78"
+	},
+	"Avast" : {
+		"id": 30,
+		"name": "Avast",
+		"uri": "https://secure.avastdns.com/dns-query",
+		"bootstrap_1": "92.223.85.58",
+		"bootstrap_2": "207.211.208.147",
+		"bootstrap_3": "207.211.208.149"
+	},
+	"Awan.ftp.sh" : {
+		"id": 31,
+		"name": "Awan.ftp.sh",
+		"uri": "https://awan.ftp.sh/dns-query",
+		"bootstrap_1": "140.238.48.65"
+	},
+	"Awan.ftp.sh_2" : {
+		"id": 32,
+		"name": "Awan.ftp.sh_2",
+		"uri": "https://awan.ftp.sh/no-vice",
+		"bootstrap_1": "140.238.48.65"
+	},
+	"Awan.ftp.sh_3" : {
+		"id": 33,
+		"name": "Awan.ftp.sh_3",
+		"uri": "https://awan.ftp.sh/noporn-cl",
+		"bootstrap_1": "140.238.48.65"
+	},
+	"Awan.ftp.sh_4" : {
+		"id": 34,
+		"name": "Awan.ftp.sh_4",
+		"uri": "https://awan.ftp.sh/unblocked",
+		"bootstrap_1": "140.238.48.65"
+	},
+	"aws.ketan.dev" : {
+		"id": 35,
+		"name": "aws.ketan.dev",
+		"uri": "https://pihole.aws.ketan.dev/dns-query",
+		"bootstrap_1": "43.204.67.89"
+	},
+	"azoris.ovh" : {
+		"id": 36,
+		"name": "azoris.ovh",
+		"uri": "https://doh.azoris.ovh/dns-query",
+		"bootstrap_1": "37.235.49.95"
+	},
+	"Bancuh" : {
+		"id": 37,
+		"name": "Bancuh",
+		"uri": "https://sg-dns1.bancuh.com/dns-query",
+		"bootstrap_1": "139.59.219.245"
+	},
+	"Bancuh_2" : {
+		"id": 38,
+		"name": "Bancuh_2",
+		"uri": "https://fr-dns1.bancuh.com/dns-query",
+		"bootstrap_1": "51.158.99.7"
+	},
+	"Bitdefender" : {
+		"id": 39,
+		"name": "Bitdefender",
+		"uri": "https://dns.bitdefender.net/dns-query",
+		"bootstrap_1": "34.84.232.67"
+	},
+	"Blaze-sk" : {
+		"id": 40,
+		"name": "Blaze-sk",
+		"uri": "https://dns.blaze-sk.ru/dns-query",
+		"bootstrap_1": "83.136.232.140"
+	},
+	"BlokadaDNS" : {
+		"id": 41,
+		"name": "BlokadaDNS",
+		"uri": "https://dns.blokada.org/dns-query",
+		"bootstrap_1": "193.180.80.2",
+		"bootstrap_2": "193.180.80.1"
+	},
+	"bonis.de" : {
+		"id": 42,
+		"name": "bonis.de",
+		"uri": "https://adguard.bonis.de/dns-query",
+		"bootstrap_1": "194.59.156.9",
+		"bootstrap_2": "213.183.86.9"
+	},
+	"bonsirven.eu" : {
+		"id": 43,
+		"name": "bonsirven.eu",
+		"uri": "https://adguard.bonsirven.eu/dns-query",
+		"bootstrap_1": "109.205.183.11"
+	},
+	"Bortzmeyer" : {
+		"id": 44,
+		"name": "Bortzmeyer",
+		"uri": "https://doh.bortzmeyer.fr",
+		"bootstrap_1": "193.70.85.11"
+	},
+	"BrahmaWorld" : {
+		"id": 45,
+		"name": "BrahmaWorld",
+		"uri": "https://dns.brahma.world/dns-query",
+		"bootstrap_1": "157.90.124.62"
+	},
+	"broadband.ink" : {
+		"id": 46,
+		"name": "broadband.ink",
+		"uri": "https://blast.broadband.ink/dns-query",
+		"bootstrap_1": "107.191.52.162"
+	},
+	"BT" : {
+		"id": 47,
+		"name": "BT",
+		"uri": "https://doh.bt.com",
+		"bootstrap_1": "81.130.111.251",
+		"bootstrap_2": "81.130.111.250"
+	},
+	"bugz.fr" : {
+		"id": 48,
+		"name": "bugz.fr",
+		"uri": "https://stratus.bugz.fr/dns-query",
+		"bootstrap_1": "163.172.131.116"
+	},
+	"Bunny" : {
+		"id": 49,
+		"name": "Bunny",
+		"uri": "https://doh1.b-cdn.net/dns-query",
+		"bootstrap_1": "128.1.35.170"
+	},
+	"C-dns" : {
+		"id": 50,
+		"name": "C-dns",
+		"uri": "https://www.c-dns.com/dns-query",
+		"bootstrap_1": "211.95.16.131"
+	},
+	"callies-online" : {
+		"id": 51,
+		"name": "callies-online",
+		"uri": "https://callies-online.site/dns-query",
+		"bootstrap_1": "85.214.107.17"
+	},
+	"Canarypwn" : {
+		"id": 52,
+		"name": "Canarypwn",
+		"uri": "https://doh.aaaab3n.moe/dns-query-114514",
+		"bootstrap_1": "104.21.10.53",
+		"bootstrap_2": "172.67.131.61"
+	},
+	"carson-family.com" : {
+		"id": 53,
+		"name": "carson-family.com",
+		"uri": "https://dns.carson-family.com/dns-query",
+		"bootstrap_1": "34.75.163.154"
+	},
+	"carter.me" : {
+		"id": 54,
+		"name": "carter.me",
+		"uri": "https://dns.carter.me/dns-query",
+		"bootstrap_1": "104.238.154.123"
+	},
+	"sriedmueadguard.casa" : {
+		"id": 55,
+		"name": "sriedmueadguard.casa",
+		"uri": "https://sriedmueadguard.casa/dns-query",
+		"bootstrap_1": "45.79.155.173"
+	},
+	"catdns.org" : {
+		"id": 56,
+		"name": "catdns.org",
+		"uri": "https://catdns.org/dns-query",
+		"bootstrap_1": "141.11.93.65"
+	},
+	"chadeyron.fr" : {
+		"id": 57,
+		"name": "chadeyron.fr",
+		"uri": "https://dns.chadeyron.fr/dns-query",
+		"bootstrap_1": "176.164.135.216"
+	},
+	"charraud.eu" : {
+		"id": 58,
+		"name": "charraud.eu",
+		"uri": "https://dns.charraud.eu/dns-query",
+		"bootstrap_1": "54.38.32.102"
+	},
+	"Charter" : {
+		"id": 59,
+		"name": "Charter",
+		"uri": "https://doh-01.spectrum.com/dns-query",
+		"bootstrap_1": "24.240.146.7"
+	},
+	"Charter_2" : {
+		"id": 60,
+		"name": "Charter_2",
+		"uri": "https://doh-02.spectrum.com/dns-query",
+		"bootstrap_1": "24.240.146.8"
+	},
+	"chenu.ch" : {
+		"id": 61,
+		"name": "chenu.ch",
+		"uri": "https://dns.chenu.ch/dns-query",
+		"bootstrap_1": "141.145.202.228"
+	},
+	"chocolatezz.xyz" : {
+		"id": 62,
+		"name": "chocolatezz.xyz",
+		"uri": "https://dns.chocolatezz.xyz/dns-query",
+		"bootstrap_1": "38.47.220.56"
+	},
+	"chungocoai.name.vn" : {
+		"id": 63,
+		"name": "chungocoai.name.vn",
+		"uri": "https://www.chungocoai.name.vn/dns-query",
+		"bootstrap_1": "103.149.28.129"
+	},
+	"CIRACanadianShield" : {
+		"id": 64,
+		"name": "CIRACanadianShield",
+		"uri": "https://private.canadianshield.cira.ca/dns-query",
+		"bootstrap_1": "149.112.122.10",
+		"bootstrap_2": "149.112.121.10"
+	},
+	"CIRACanadianShield_2" : {
+		"id": 65,
+		"name": "CIRACanadianShield_2",
+		"uri": "https://protected.canadianshield.cira.ca/dns-query",
+		"bootstrap_1": "149.112.122.20",
+		"bootstrap_2": "149.112.121.20"
+	},
+	"CIRACanadianShield_3" : {
+		"id": 66,
+		"name": "CIRACanadianShield_3",
+		"uri": "https://family.canadianshield.cira.ca/dns-query",
+		"bootstrap_1": "149.112.122.30",
+		"bootstrap_2": "149.112.121.30"
+	},
+	"CIRCL" : {
+		"id": 67,
+		"name": "CIRCL",
+		"uri": "https://dns.circl.lu/dns-query",
+		"bootstrap_1": "185.194.94.71"
+	},
+	"CiscoUmbrellaOpenDNS" : {
+		"id": 68,
+		"name": "CiscoUmbrellaOpenDNS",
+		"uri": "https://doh.opendns.com/dns-query",
+		"bootstrap_1": "146.112.41.2"
+	},
+	"CiscoUmbrellaOpenDNS_2" : {
+		"id": 69,
+		"name": "CiscoUmbrellaOpenDNS_2",
+		"uri": "https://doh.familyshield.opendns.com/dns-query",
+		"bootstrap_1": "146.112.41.3"
+	},
+	"CiscoUmbrellaOpenDNS_3" : {
+		"id": 70,
+		"name": "CiscoUmbrellaOpenDNS_3",
+		"uri": "https://doh.umbrella.com/dns-query",
+		"bootstrap_1": "146.112.41.5"
+	},
+	"clanto.cloud" : {
+		"id": 71,
+		"name": "clanto.cloud",
+		"uri": "https://dns.clanto.cloud/dns-query",
+		"bootstrap_1": "94.23.71.64"
+	},
+	"CleanBrowsing" : {
+		"id": 72,
+		"name": "CleanBrowsing",
+		"uri": "https://doh.cleanbrowsing.org/doh/family-filter/",
+		"bootstrap_1": "185.228.168.168",
+		"bootstrap_2": "185.228.168.10"
+	},
+	"CleanBrowsing_2" : {
+		"id": 73,
+		"name": "CleanBrowsing_2",
+		"uri": "https://doh.cleanbrowsing.org/doh/adult-filter/",
+		"bootstrap_1": "185.228.168.168",
+		"bootstrap_2": "185.228.168.10"
+	},
+	"CleanBrowsing_3" : {
+		"id": 74,
+		"name": "CleanBrowsing_3",
+		"uri": "https://doh.cleanbrowsing.org/doh/security-filter/",
+		"bootstrap_1": "185.228.168.168",
+		"bootstrap_2": "185.228.168.10"
+	},
+	"cloud.198.games" : {
+		"id": 75,
+		"name": "cloud.198.games",
+		"uri": "https://cloud.198.games/dns-query",
+		"bootstrap_1": "43.154.23.198"
+	},
+	"cloud.ionutl.ro" : {
+		"id": 76,
+		"name": "cloud.ionutl.ro",
+		"uri": "https://dns.cloud.ionutl.ro/dns-query",
+		"bootstrap_1": "144.24.177.191"
+	},
+	"Cloud88" : {
+		"id": 77,
+		"name": "Cloud88",
+		"uri": "https://dns.cloud88.com.au/dns-query",
+		"bootstrap_1": "152.67.124.40"
+	},
+	"Cloudflare" : {
+		"id": 78,
+		"name": "Cloudflare",
+		"uri": "https://cloudflare-dns.com/dns-query",
+		"bootstrap_1": "104.16.249.249",
+		"bootstrap_2": "104.16.248.249"
+	},
+	"Cloudflare_2" : {
+		"id": 79,
+		"name": "Cloudflare_2",
+		"uri": "https://mozilla.cloudflare-dns.com/dns-query",
+		"bootstrap_1": "162.159.61.4",
+		"bootstrap_2": "172.64.41.4"
+	},
+	"Cloudflare_3" : {
+		"id": 80,
+		"name": "Cloudflare_3",
+		"uri": "https://security.cloudflare-dns.com/dns-query",
+		"bootstrap_1": "1.0.0.2",
+		"bootstrap_2": "1.1.1.2"
+	},
+	"Cloudflare_4" : {
+		"id": 81,
+		"name": "Cloudflare_4",
+		"uri": "https://family.cloudflare-dns.com/dns-query",
+		"bootstrap_1": "1.1.1.3",
+		"bootstrap_2": "1.0.0.3"
+	},
+	"Cloudflare_5" : {
+		"id": 82,
+		"name": "Cloudflare_5",
+		"uri": "https://dns64.cloudflare-dns.com/dns-query",
+		"bootstrap_1": "UNKNOWN"
+	},
+	"cloudseriousshit.com" : {
+		"id": 83,
+		"name": "cloudseriousshit.com",
+		"uri": "https://dns.cloudseriousshit.com/dns-query",
+		"bootstrap_1": "172.104.44.212"
+	},
+	"CloudSides" : {
+		"id": 84,
+		"name": "CloudSides",
+		"uri": "https://dns-fr-psv1.cloudsides.com/dns-query",
+		"bootstrap_1": "163.172.68.245"
+	},
+	"coconut.id" : {
+		"id": 85,
+		"name": "coconut.id",
+		"uri": "https://block.coconut.id/dns-query",
+		"bootstrap_1": "172.232.251.244"
+	},
+	"ControlD" : {
+		"id": 86,
+		"name": "ControlD",
+		"uri": "https://freedns.controld.com/p0",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"ControlD_2" : {
+		"id": 87,
+		"name": "ControlD_2",
+		"uri": "https://freedns.controld.com/p1",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"ControlD_3" : {
+		"id": 88,
+		"name": "ControlD_3",
+		"uri": "https://freedns.controld.com/p2",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"ControlD_4" : {
+		"id": 89,
+		"name": "ControlD_4",
+		"uri": "https://freedns.controld.com/p3",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"ControlD_5" : {
+		"id": 90,
+		"name": "ControlD_5",
+		"uri": "https://freedns.controld.com/family",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"ControlD_6" : {
+		"id": 91,
+		"name": "ControlD_6",
+		"uri": "https://freedns.controld.com/uncensored",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"ControlD_7" : {
+		"id": 92,
+		"name": "ControlD_7",
+		"uri": "https://freedns.controld.com/x-oisd",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"ControlD_8" : {
+		"id": 93,
+		"name": "ControlD_8",
+		"uri": "https://freedns.controld.com/x-oisd-basic",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"ControlD_9" : {
+		"id": 94,
+		"name": "ControlD_9",
+		"uri": "https://freedns.controld.com/x-stevenblack",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"ControlD_10" : {
+		"id": 95,
+		"name": "ControlD_10",
+		"uri": "https://freedns.controld.com/x-devdan",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"ControlD_11" : {
+		"id": 96,
+		"name": "ControlD_11",
+		"uri": "https://freedns.controld.com/x-1hosts-mini",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"ControlD_12" : {
+		"id": 97,
+		"name": "ControlD_12",
+		"uri": "https://freedns.controld.com/x-1hosts-lite",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"ControlD_13" : {
+		"id": 98,
+		"name": "ControlD_13",
+		"uri": "https://freedns.controld.com/x-1hosts-pro",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"ControlD_14" : {
+		"id": 99,
+		"name": "ControlD_14",
+		"uri": "https://freedns.controld.com/x-hagezi-light",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"ControlD_15" : {
+		"id": 100,
+		"name": "ControlD_15",
+		"uri": "https://freedns.controld.com/x-hagezi-normal",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"ControlD_16" : {
+		"id": 101,
+		"name": "ControlD_16",
+		"uri": "https://freedns.controld.com/x-hagezi-pro",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"ControlD_17" : {
+		"id": 102,
+		"name": "ControlD_17",
+		"uri": "https://freedns.controld.com/x-hagezi-proplus",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"ControlD_18" : {
+		"id": 103,
+		"name": "ControlD_18",
+		"uri": "https://freedns.controld.com/x-hagezi-ultimate",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"ControlD_19" : {
+		"id": 104,
+		"name": "ControlD_19",
+		"uri": "https://freedns.controld.com/x-hagezi-tif",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"ControlD_20" : {
+		"id": 105,
+		"name": "ControlD_20",
+		"uri": "https://freedns.controld.com/x-goodbyeads",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"ControlD_21" : {
+		"id": 106,
+		"name": "ControlD_21",
+		"uri": "https://freedns.controld.com/x-adguard",
+		"bootstrap_1": "76.76.2.11"
+	},
+	"CubeDNS" : {
+		"id": 107,
+		"name": "CubeDNS",
+		"uri": "https://cubedns.com/dns-query",
+		"bootstrap_1": "195.244.44.44",
+		"bootstrap_2": "195.244.44.45"
+	},
+	"cuprum.ru" : {
+		"id": 108,
+		"name": "cuprum.ru",
+		"uri": "https://qual.cuprum.ru/dns-query",
+		"bootstrap_1": "3.9.180.22"
+	},
+	"cybergroove.net" : {
+		"id": 109,
+		"name": "cybergroove.net",
+		"uri": "https://nanopi.cybergroove.net/dns-query",
+		"bootstrap_1": "119.47.232.107"
+	},
+	"cynntex.fun" : {
+		"id": 110,
+		"name": "cynntex.fun",
+		"uri": "https://cynntex.fun/dns-query",
+		"bootstrap_1": "185.255.135.195"
+	},
+	"CynthiaLabs" : {
+		"id": 111,
+		"name": "CynthiaLabs",
+		"uri": "https://dns.cynthialabs.net/dns-query",
+		"bootstrap_1": "172.67.154.61",
+		"bootstrap_2": "104.21.4.234"
+	},
+	"CZ.NIC" : {
+		"id": 112,
+		"name": "CZ.NIC",
+		"uri": "https://odvr.nic.cz/dns-query",
+		"bootstrap_1": "193.17.47.1",
+		"bootstrap_2": "185.43.135.1"
+	},
+	"DanielWoffinden" : {
+		"id": 113,
+		"name": "DanielWoffinden",
+		"uri": "https://dns.daw.dev/dns-query",
+		"bootstrap_1": "116.203.115.225"
+	},
+	"DanielleMcLean" : {
+		"id": 114,
+		"name": "DanielleMcLean",
+		"uri": "https://ns.00dani.me/dns-query",
+		"bootstrap_1": "104.236.116.148"
+	},
+	"darkness.is.my.waifu" : {
+		"id": 115,
+		"name": "darkness.is.my.waifu",
+		"uri": "https://darkness.is.my.waifu.cz/dns-query",
+		"bootstrap_1": "116.251.216.207"
+	},
+	"data.haus" : {
+		"id": 116,
+		"name": "data.haus",
+		"uri": "https://mail.data.haus/dns-query",
+		"bootstrap_1": "159.69.123.239"
+	},
+	"Datahata.by" : {
+		"id": 117,
+		"name": "Datahata.by",
+		"uri": "https://doh.datahata.by/dns-query",
+		"bootstrap_1": "31.130.200.100"
+	},
+	"DigitaleGesellschaft" : {
+		"id": 118,
+		"name": "DigitaleGesellschaft",
+		"uri": "https://dns.digitale-gesellschaft.ch/dns-query",
+		"bootstrap_1": "185.95.218.43",
+		"bootstrap_2": "185.95.218.42"
+	},
+	"Disconnect.app" : {
+		"id": 119,
+		"name": "Disconnect.app",
+		"uri": "https://doh.disconnect.app/dns-query",
+		"bootstrap_1": "172.67.140.171",
+		"bootstrap_2": "104.21.65.52"
+	},
+	"DNSForFamily" : {
+		"id": 120,
+		"name": "DNSForFamily",
+		"uri": "https://dns-doh.dnsforfamily.com/dns-query",
+		"bootstrap_1": "167.235.236.107"
+	},
+	"DNSFree" : {
+		"id": 121,
+		"name": "DNSFree",
+		"uri": "https://dns-free.link/dns-query",
+		"bootstrap_1": "104.21.33.114",
+		"bootstrap_2": "172.67.161.229"
+	},
+	"DNSFree_2" : {
+		"id": 122,
+		"name": "DNSFree_2",
+		"uri": "https://dns-free.link/family",
+		"bootstrap_1": "104.21.33.114",
+		"bootstrap_2": "172.67.161.229"
+	},
+	"dns-ga.de" : {
+		"id": 123,
+		"name": "dns-ga.de",
+		"uri": "https://dot.dns-ga.de/dns-query",
+		"bootstrap_1": "138.201.81.119",
+		"bootstrap_2": "159.69.46.85",
+		"bootstrap_3": "217.160.166.161",
+		"bootstrap_4": "88.99.98.111"
+	},
+	"dns.digitalsize.net" : {
+		"id": 124,
+		"name": "dns.digitalsize.net",
+		"uri": "https://dns.digitalsize.net/dns-query",
+		"bootstrap_1": "94.130.135.203"
+	},
+	"dns.expert" : {
+		"id": 125,
+		"name": "dns.expert",
+		"uri": "https://dns.expert/dns-query",
+		"bootstrap_1": "85.183.142.13"
+	},
+	"DNS.SB" : {
+		"id": 126,
+		"name": "DNS.SB",
+		"uri": "https://doh.dns.sb/dns-query",
+		"bootstrap_1": "103.121.210.210"
+	},
+	"DNS.SB_2" : {
+		"id": 127,
+		"name": "DNS.SB_2",
+		"uri": "https://doh.sb/dns-query",
+		"bootstrap_1": "185.222.222.222"
+	},
+	"dns0.eu" : {
+		"id": 128,
+		"name": "dns0.eu",
+		"uri": "https://open.dns0.eu",
+		"bootstrap_1": "194.30.136.105",
+		"bootstrap_2": "85.190.230.43"
+	},
+	"dns0.eu_2" : {
+		"id": 129,
+		"name": "dns0.eu_2",
+		"uri": "https://dns0.eu",
+		"bootstrap_1": "85.190.230.43",
+		"bootstrap_2": "194.30.136.105"
+	},
+	"dns0.eu_3" : {
+		"id": 130,
+		"name": "dns0.eu_3",
+		"uri": "https://zero.dns0.eu",
+		"bootstrap_1": "194.30.136.105",
+		"bootstrap_2": "85.190.230.43"
+	},
+	"dns0.eu_4" : {
+		"id": 131,
+		"name": "dns0.eu_4",
+		"uri": "https://kids.dns0.eu",
+		"bootstrap_1": "194.30.136.105",
+		"bootstrap_2": "85.190.230.43"
+	},
+	"DNS4all" : {
+		"id": 132,
+		"name": "DNS4all",
+		"uri": "https://doh.dns4all.eu/dns-query",
+		"bootstrap_1": "194.0.5.3"
+	},
+	"dnscry.pt" : {
+		"id": 133,
+		"name": "dnscry.pt",
+		"uri": "https://abe01.dnscry.pt/dns-query",
+		"bootstrap_1": "23.137.253.24"
+	},
+	"dnscry.pt_2" : {
+		"id": 134,
+		"name": "dnscry.pt_2",
+		"uri": "https://ams01.dnscry.pt/dns-query",
+		"bootstrap_1": "198.140.141.46"
+	},
+	"dnscry.pt_3" : {
+		"id": 135,
+		"name": "dnscry.pt_3",
+		"uri": "https://ams02.dnscry.pt/dns-query",
+		"bootstrap_1": "45.86.162.110"
+	},
+	"dnscry.pt_4" : {
+		"id": 136,
+		"name": "dnscry.pt_4",
+		"uri": "https://atl01.dnscry.pt/dns-query",
+		"bootstrap_1": "170.249.237.154"
+	},
+	"dnscry.pt_5" : {
+		"id": 137,
+		"name": "dnscry.pt_5",
+		"uri": "https://ycg01.dnscry.pt/dns-query",
+		"bootstrap_1": "158.51.78.177"
+	},
+	"dnscry.pt_6" : {
+		"id": 138,
+		"name": "dnscry.pt_6",
+		"uri": "https://ord01.dnscry.pt/dns-query",
+		"bootstrap_1": "45.41.204.204"
+	},
+	"dnscry.pt_7" : {
+		"id": 139,
+		"name": "dnscry.pt_7",
+		"uri": "https://coe01.dnscry.pt/dns-query",
+		"bootstrap_1": "104.192.102.132"
+	},
+	"dnscry.pt_8" : {
+		"id": 140,
+		"name": "dnscry.pt_8",
+		"uri": "https://cvt01.dnscry.pt/dns-query",
+		"bootstrap_1": "104.128.190.108"
+	},
+	"dnscry.pt_9" : {
+		"id": 141,
+		"name": "dnscry.pt_9",
+		"uri": "https://dfw01.dnscry.pt/dns-query",
+		"bootstrap_1": "202.5.26.130"
+	},
+	"dnscry.pt_10" : {
+		"id": 142,
+		"name": "dnscry.pt_10",
+		"uri": "https://dtw01.dnscry.pt/dns-query",
+		"bootstrap_1": "66.187.7.140"
+	},
+	"dnscry.pt_11" : {
+		"id": 143,
+		"name": "dnscry.pt_11",
+		"uri": "https://rdu01.dnscry.pt/dns-query",
+		"bootstrap_1": "38.45.64.117"
+	},
+	"dnscry.pt_12" : {
+		"id": 144,
+		"name": "dnscry.pt_12",
+		"uri": "https://dus01.dnscry.pt/dns-query",
+		"bootstrap_1": "185.244.27.136"
+	},
+	"dnscry.pt_13" : {
+		"id": 145,
+		"name": "dnscry.pt_13",
+		"uri": "https://fra01.dnscry.pt/dns-query",
+		"bootstrap_1": "194.50.19.150"
+	},
+	"dnscry.pt_14" : {
+		"id": 146,
+		"name": "dnscry.pt_14",
+		"uri": "https://hkg01.dnscry.pt/dns-query",
+		"bootstrap_1": "89.213.0.26"
+	},
+	"dnscry.pt_15" : {
+		"id": 147,
+		"name": "dnscry.pt_15",
+		"uri": "https://jnb01.dnscry.pt/dns-query",
+		"bootstrap_1": "169.239.128.124"
+	},
+	"dnscry.pt_16" : {
+		"id": 148,
+		"name": "dnscry.pt_16",
+		"uri": "https://las01.dnscry.pt/dns-query",
+		"bootstrap_1": "209.141.45.27"
+	},
+	"dnscry.pt_17" : {
+		"id": 149,
+		"name": "dnscry.pt_17",
+		"uri": "https://llk01.dnscry.pt/dns-query",
+		"bootstrap_1": "23.184.48.19"
+	},
+	"dnscry.pt_18" : {
+		"id": 150,
+		"name": "dnscry.pt_18",
+		"uri": "https://lon01.dnscry.pt/dns-query",
+		"bootstrap_1": "178.239.174.244"
+	},
+	"dnscry.pt_19" : {
+		"id": 151,
+		"name": "dnscry.pt_19",
+		"uri": "https://lax01.dnscry.pt/dns-query",
+		"bootstrap_1": "84.33.244.100"
+	},
+	"dnscry.pt_20" : {
+		"id": 152,
+		"name": "dnscry.pt_20",
+		"uri": "https://lax02.dnscry.pt/dns-query",
+		"bootstrap_1": "104.200.67.194"
+	},
+	"dnscry.pt_21" : {
+		"id": 153,
+		"name": "dnscry.pt_21",
+		"uri": "https://mia01.dnscry.pt/dns-query",
+		"bootstrap_1": "84.33.14.10"
+	},
+	"dnscry.pt_22" : {
+		"id": 154,
+		"name": "dnscry.pt_22",
+		"uri": "https://muc01.dnscry.pt/dns-query",
+		"bootstrap_1": "194.39.205.10"
+	},
+	"dnscry.pt_23" : {
+		"id": 155,
+		"name": "dnscry.pt_23",
+		"uri": "https://naw01.dnscry.pt/dns-query",
+		"bootstrap_1": "23.137.249.26"
+	},
+	"dnscry.pt_24" : {
+		"id": 156,
+		"name": "dnscry.pt_24",
+		"uri": "https://nyc01.dnscry.pt/dns-query",
+		"bootstrap_1": "84.33.245.10"
+	},
+	"dnscry.pt_25" : {
+		"id": 157,
+		"name": "dnscry.pt_25",
+		"uri": "https://phl01.dnscry.pt/dns-query",
+		"bootstrap_1": "154.16.159.22"
+	},
+	"dnscry.pt_26" : {
+		"id": 158,
+		"name": "dnscry.pt_26",
+		"uri": "https://phx01.dnscry.pt/dns-query",
+		"bootstrap_1": "173.249.203.52"
+	},
+	"dnscry.pt_27" : {
+		"id": 159,
+		"name": "dnscry.pt_27",
+		"uri": "https://pdx01.dnscry.pt/dns-query",
+		"bootstrap_1": "103.124.106.233"
+	},
+	"dnscry.pt_28" : {
+		"id": 160,
+		"name": "dnscry.pt_28",
+		"uri": "https://slc01.dnscry.pt/dns-query",
+		"bootstrap_1": "103.114.162.65"
+	},
+	"dnscry.pt_29" : {
+		"id": 161,
+		"name": "dnscry.pt_29",
+		"uri": "https://trf01.dnscry.pt/dns-query",
+		"bootstrap_1": "194.32.107.48"
+	},
+	"dnscry.pt_30" : {
+		"id": 162,
+		"name": "dnscry.pt_30",
+		"uri": "https://sin01.dnscry.pt/dns-query",
+		"bootstrap_1": "84.33.16.124"
+	},
+	"dnscry.pt_31" : {
+		"id": 163,
+		"name": "dnscry.pt_31",
+		"uri": "https://sof01.dnscry.pt/dns-query",
+		"bootstrap_1": "79.124.77.3"
+	},
+	"dnscry.pt_32" : {
+		"id": 164,
+		"name": "dnscry.pt_32",
+		"uri": "https://geg01.dnscry.pt/dns-query",
+		"bootstrap_1": "104.36.86.181"
+	},
+	"dnscry.pt_33" : {
+		"id": 165,
+		"name": "dnscry.pt_33",
+		"uri": "https://sto01.dnscry.pt/dns-query",
+		"bootstrap_1": "95.143.196.190"
+	},
+	"dnscry.pt_34" : {
+		"id": 166,
+		"name": "dnscry.pt_34",
+		"uri": "https://tll01.dnscry.pt/dns-query",
+		"bootstrap_1": "185.194.53.22"
+	},
+	"dnscry.pt_35" : {
+		"id": 167,
+		"name": "dnscry.pt_35",
+		"uri": "https://tpa01.dnscry.pt/dns-query",
+		"bootstrap_1": "165.140.117.248"
+	},
+	"dnscry.pt_36" : {
+		"id": 168,
+		"name": "dnscry.pt_36",
+		"uri": "https://zal01.dnscry.pt/dns-query",
+		"bootstrap_1": "216.73.159.26"
+	},
+	"dnscry.pt_37" : {
+		"id": 169,
+		"name": "dnscry.pt_37",
+		"uri": "https://waw02.dnscry.pt/dns-query",
+		"bootstrap_1": "88.218.206.137"
+	},
+	"dnsforge.de" : {
+		"id": 170,
+		"name": "dnsforge.de",
+		"uri": "https://dnsforge.de/dns-query",
+		"bootstrap_1": "176.9.93.198",
+		"bootstrap_2": "176.9.1.117"
+	},
+	"dnsHome.de" : {
+		"id": 171,
+		"name": "dnsHome.de",
+		"uri": "https://dns.dnshome.de/dns-query",
+		"bootstrap_1": "45.86.125.58"
+	},
+	"dnslow.me" : {
+		"id": 172,
+		"name": "dnslow.me",
+		"uri": "https://dnslow.me/dns-query",
+		"bootstrap_1": "52.246.182.50"
+	},
+	"DNSPod" : {
+		"id": 173,
+		"name": "DNSPod",
+		"uri": "https://dns.pub/dns-query",
+		"bootstrap_1": "162.14.21.56",
+		"bootstrap_2": "162.14.21.178"
+	},
+	"dnssilo.top" : {
+		"id": 174,
+		"name": "dnssilo.top",
+		"uri": "https://dns.dnssilo.top/dns-query",
+		"bootstrap_1": "185.34.136.243"
+	},
+	"dnswarden" : {
+		"id": 175,
+		"name": "dnswarden",
+		"uri": "https://dns.dnswarden.com/adblock",
+		"bootstrap_1": "149.248.217.117"
+	},
+	"dnswarden_2" : {
+		"id": 176,
+		"name": "dnswarden_2",
+		"uri": "https://dns.dnswarden.com/uncensored",
+		"bootstrap_1": "149.248.217.117"
+	},
+	"dnswarden_3" : {
+		"id": 177,
+		"name": "dnswarden_3",
+		"uri": "https://dns.dnswarden.com/adultfilter",
+		"bootstrap_1": "149.248.217.117"
+	},
+	"doh.best" : {
+		"id": 178,
+		"name": "doh.best",
+		"uri": "https://dns.doh.best/dns-query",
+		"bootstrap_1": "15.235.141.22",
+		"bootstrap_2": "15.235.163.252"
+	},
+	"Domyah" : {
+		"id": 179,
+		"name": "Domyah",
+		"uri": "https://takhtakh.domyah.net/dns-query",
+		"bootstrap_1": "172.67.222.126",
+		"bootstrap_2": "104.21.70.99"
+	},
+	"dscloud.me" : {
+		"id": 180,
+		"name": "dscloud.me",
+		"uri": "https://doh.dscloud.me/dns-query",
+		"bootstrap_1": "45.76.154.33"
+	},
+	"Dukun.de" : {
+		"id": 181,
+		"name": "Dukun.de",
+		"uri": "https://dukun.de/dns-query",
+		"bootstrap_1": "188.68.50.215"
+	},
+	"EasyMosdns" : {
+		"id": 182,
+		"name": "EasyMosdns",
+		"uri": "https://doh.apad.pro/dns-query",
+		"bootstrap_1": "104.21.55.112",
+		"bootstrap_2": "172.67.171.30"
+	},
+	"EdgyDNS" : {
+		"id": 183,
+		"name": "EdgyDNS",
+		"uri": "https://edgy-dns.com/dns-query",
+		"bootstrap_1": "172.232.226.94"
+	},
+	"EgorGlukhikh" : {
+		"id": 184,
+		"name": "EgorGlukhikh",
+		"uri": "https://dns.henek.ovh/dns-query",
+		"bootstrap_1": "35.209.190.107"
+	},
+	"eliatofani.ovh" : {
+		"id": 185,
+		"name": "eliatofani.ovh",
+		"uri": "https://eliatofani.ovh/dns-query",
+		"bootstrap_1": "135.125.236.63"
+	},
+	"EmiliyanParvanov" : {
+		"id": 186,
+		"name": "EmiliyanParvanov",
+		"uri": "https://dns.emiliyan.com/dns-query",
+		"bootstrap_1": "35.239.47.122"
+	},
+	"enjoymylife.net" : {
+		"id": 187,
+		"name": "enjoymylife.net",
+		"uri": "https://home.enjoymylife.net/dns-query",
+		"bootstrap_1": "82.35.69.99"
+	},
+	"eranext.net" : {
+		"id": 188,
+		"name": "eranext.net",
+		"uri": "https://shield1.eranext.net/dns-query",
+		"bootstrap_1": "51.222.16.174"
+	},
+	"Extrawdw" : {
+		"id": 189,
+		"name": "Extrawdw",
+		"uri": "https://dns.extrawdw.net/dns-query",
+		"bootstrap_1": "152.70.113.139"
+	},
+	"f7b6h9.tk" : {
+		"id": 190,
+		"name": "f7b6h9.tk",
+		"uri": "https://jp1.f7b6h9.tk/dns-query",
+		"bootstrap_1": "168.138.220.48"
+	},
+	"f97.xyz" : {
+		"id": 191,
+		"name": "f97.xyz",
+		"uri": "https://dns.f97.xyz/dns-query",
+		"bootstrap_1": "103.101.161.231"
+	},
+	"FAELIX" : {
+		"id": 192,
+		"name": "FAELIX",
+		"uri": "https://rdns.faelix.net/",
+		"bootstrap_1": "46.227.200.55",
+		"bootstrap_2": "185.134.196.54",
+		"bootstrap_3": "185.134.196.55",
+		"bootstrap_4": "46.227.200.54"
+	},
+	"FAELIX_2" : {
+		"id": 193,
+		"name": "FAELIX_2",
+		"uri": "https://pdns.faelix.net/",
+		"bootstrap_1": "46.227.203.52",
+		"bootstrap_2": "46.227.207.52",
+		"bootstrap_3": "185.134.196.52",
+		"bootstrap_4": "46.227.200.52"
+	},
+	"Fancyorg.at" : {
+		"id": 194,
+		"name": "Fancyorg.at",
+		"uri": "https://dns.fancyorg.at/dns-query",
+		"bootstrap_1": "185.69.161.122"
+	},
+	"FDN" : {
+		"id": 195,
+		"name": "FDN",
+		"uri": "https://ns0.fdn.fr/dns-query",
+		"bootstrap_1": "80.67.169.12"
+	},
+	"FDN_2" : {
+		"id": 196,
+		"name": "FDN_2",
+		"uri": "https://ns1.fdn.fr/dns-query",
+		"bootstrap_1": "80.67.169.40"
+	},
+	"fezgate.ovh" : {
+		"id": 197,
+		"name": "fezgate.ovh",
+		"uri": "https://fezgate.ovh/dns-query",
+		"bootstrap_1": "162.19.227.251"
+	},
+	"ff0x" : {
+		"id": 198,
+		"name": "ff0x",
+		"uri": "https://ag.ff0x.ca/dns-query",
+		"bootstrap_1": "137.184.171.250"
+	},
+	"ffmuc.net" : {
+		"id": 199,
+		"name": "ffmuc.net",
+		"uri": "https://doh.ffmuc.net/dns-query",
+		"bootstrap_1": "185.150.99.255",
+		"bootstrap_2": "5.1.66.255"
+	},
+	"Flm9.net" : {
+		"id": 200,
+		"name": "Flm9.net",
+		"uri": "https://dns01.flm9.net/dns-query",
+		"bootstrap_1": "188.40.154.101"
+	},
+	"fltn" : {
+		"id": 201,
+		"name": "fltn",
+		"uri": "https://agh.fltn.us/dns-query",
+		"bootstrap_1": "198.251.67.7"
+	},
+	"FoundationforAppliedPrivacy" : {
+		"id": 202,
+		"name": "FoundationforAppliedPrivacy",
+		"uri": "https://doh.applied-privacy.net/query",
+		"bootstrap_1": "146.255.56.98"
+	},
+	"freecdn.one" : {
+		"id": 203,
+		"name": "freecdn.one",
+		"uri": "https://hkname.freecdn.one/dns-query",
+		"bootstrap_1": "107.182.143.211"
+	},
+	"Froth.zone" : {
+		"id": 204,
+		"name": "Froth.zone",
+		"uri": "https://dns.froth.zone/dns-query",
+		"bootstrap_1": "95.216.99.249"
+	},
+	"fullaccesstointernet.jp.eu.org" : {
+		"id": 205,
+		"name": "fullaccesstointernet.jp.eu.org",
+		"uri": "https://dns.fullaccesstointernet.jp.eu.org/dns-query",
+		"bootstrap_1": "167.179.78.123"
+	},
+	"FurryDNS" : {
+		"id": 206,
+		"name": "FurryDNS",
+		"uri": "https://dns.furrydns.de/dns-query",
+		"bootstrap_1": "185.232.68.212"
+	},
+	"Gensokyo" : {
+		"id": 207,
+		"name": "Gensokyo",
+		"uri": "https://dns.freyja.pw/dns-query",
+		"bootstrap_1": "15.204.209.29"
+	},
+	"gkonuralp.com" : {
+		"id": 208,
+		"name": "gkonuralp.com",
+		"uri": "https://sdns22.gkonuralp.com/dns-query",
+		"bootstrap_1": "204.216.217.1"
+	},
+	"Google" : {
+		"id": 209,
+		"name": "Google",
+		"uri": "https://dns.google/dns-query",
+		"bootstrap_1": "8.8.8.8",
+		"bootstrap_2": "8.8.4.4"
+	},
+	"Google_2" : {
+		"id": 210,
+		"name": "Google_2",
+		"uri": "https://dns64.dns.google/dns-query",
+		"bootstrap_1": "UNKNOWN"
+	},
+	"Google_3" : {
+		"id": 211,
+		"name": "Google_3",
+		"uri": "https://8888.google/dns-query",
+		"bootstrap_1": "8.8.8.8",
+		"bootstrap_2": "8.8.4.4"
+	},
+	"GustavusAdolphusCollege" : {
+		"id": 212,
+		"name": "GustavusAdolphusCollege",
+		"uri": "https://cluster-0.gac.edu/dns-query",
+		"bootstrap_1": "138.236.128.100"
+	},
+	"GustavusAdolphusCollege_2" : {
+		"id": 213,
+		"name": "GustavusAdolphusCollege_2",
+		"uri": "https://cluster-1.gac.edu/dns-query",
+		"bootstrap_1": "138.236.128.101"
+	},
+	"haboy.top" : {
+		"id": 214,
+		"name": "haboy.top",
+		"uri": "https://dns.haboy.top/dns-query",
+		"bootstrap_1": "8.210.77.130"
+	},
+	"Haringstad" : {
+		"id": 215,
+		"name": "Haringstad",
+		"uri": "https://resolver-eu.haringstad.com/dns-query",
+		"bootstrap_1": "135.181.248.48"
+	},
+	"hostme.co.il" : {
+		"id": 216,
+		"name": "hostme.co.il",
+		"uri": "https://ag.hostme.co.il/dns-query",
+		"bootstrap_1": "64.176.167.87"
+	},
+	"Hostux.net" : {
+		"id": 217,
+		"name": "Hostux.net",
+		"uri": "https://dns.hostux.net/ads",
+		"bootstrap_1": "46.226.109.82",
+		"bootstrap_2": "46.226.110.211",
+		"bootstrap_3": "46.226.108.173"
+	},
+	"hugo0.moe" : {
+		"id": 218,
+		"name": "hugo0.moe",
+		"uri": "https://dns.hugo0.moe/dns-query",
+		"bootstrap_1": "152.70.102.14"
+	},
+	"huizegunsing.nl" : {
+		"id": 219,
+		"name": "huizegunsing.nl",
+		"uri": "https://dns.huizegunsing.nl",
+		"bootstrap_1": "86.81.125.145"
+	},
+	"hujiayucc.cn" : {
+		"id": 220,
+		"name": "hujiayucc.cn",
+		"uri": "https://dns.hujiayucc.cn/dns-query",
+		"bootstrap_1": "120.24.213.35"
+	},
+	"hunga1k47.com" : {
+		"id": 221,
+		"name": "hunga1k47.com",
+		"uri": "https://ads.hunga1k47.com/dns-query",
+		"bootstrap_1": "103.216.113.195"
+	},
+	"Huque" : {
+		"id": 222,
+		"name": "Huque",
+		"uri": "https://doth.huque.com/dns-query",
+		"bootstrap_1": "54.90.232.69"
+	},
+	"HurricaneElectric" : {
+		"id": 223,
+		"name": "HurricaneElectric",
+		"uri": "https://ordns.he.net/dns-query",
+		"bootstrap_1": "74.82.42.42"
+	},
+	"huseynov.work" : {
+		"id": 224,
+		"name": "huseynov.work",
+		"uri": "https://dns.huseynov.work/dns-query",
+		"bootstrap_1": "161.97.142.194"
+	},
+	"HuyHoàng" : {
+		"id": 225,
+		"name": "HuyHoàng",
+		"uri": "https://dns.huyhoangit.net/dns-query",
+		"bootstrap_1": "129.150.45.4"
+	},
+	"HuyCT.Net" : {
+		"id": 226,
+		"name": "HuyCT.Net",
+		"uri": "https://ad.huyct.net/dns-query",
+		"bootstrap_1": "155.248.185.73"
+	},
+	"i81.ru" : {
+		"id": 227,
+		"name": "i81.ru",
+		"uri": "https://vd.i81.ru/dns-query",
+		"bootstrap_1": "178.20.42.213"
+	},
+	"iddqd.uk" : {
+		"id": 228,
+		"name": "iddqd.uk",
+		"uri": "https://portal.iddqd.uk/dns-query",
+		"bootstrap_1": "65.21.111.225"
+	},
+	"ikarosalpha.xyz" : {
+		"id": 229,
+		"name": "ikarosalpha.xyz",
+		"uri": "https://ikarosalpha.xyz/dns-query",
+		"bootstrap_1": "172.67.213.216",
+		"bootstrap_2": "104.21.50.235"
+	},
+	"In-Berlin" : {
+		"id": 230,
+		"name": "In-Berlin",
+		"uri": "https://dns1.in-berlin.de/dns-query",
+		"bootstrap_1": "192.109.42.41"
+	},
+	"indybanipal.com" : {
+		"id": 231,
+		"name": "indybanipal.com",
+		"uri": "https://dns.indybanipal.com/dns-query",
+		"bootstrap_1": "96.126.98.101"
+	},
+	"InfracellNusatama" : {
+		"id": 232,
+		"name": "InfracellNusatama",
+		"uri": "https://doh.infracell.net/dns-query",
+		"bootstrap_1": "203.153.116.132"
+	},
+	"inpssh.online" : {
+		"id": 233,
+		"name": "inpssh.online",
+		"uri": "https://www.inpssh.online/dns-query",
+		"bootstrap_1": "86.98.90.126"
+	},
+	"inpssh" : {
+		"id": 234,
+		"name": "inpssh",
+		"uri": "https://inpssh.online/dns-query",
+		"bootstrap_1": "86.98.90.126"
+	},
+	"Institutnationalderechercheensciencesettechnologiesdunumérique" : {
+		"id": 235,
+		"name": "Institutnationalderechercheensciencesettechnologiesdunumérique",
+		"uri": "https://qlf-doh.inria.fr/dns-query",
+		"bootstrap_1": "128.93.162.64"
+	},
+	"InstituteofOperatingSystemsandComputerNetworks" : {
+		"id": 236,
+		"name": "InstituteofOperatingSystemsandComputerNetworks",
+		"uri": "https://doh.ibr.cs.tu-bs.de/dns-query",
+		"bootstrap_1": "134.169.34.57"
+	},
+	"interhub.cc" : {
+		"id": 237,
+		"name": "interhub.cc",
+		"uri": "https://dns.interhub.cc/dns-query",
+		"bootstrap_1": "70.34.243.158"
+	},
+	"internal.hosmatic.com" : {
+		"id": 238,
+		"name": "internal.hosmatic.com",
+		"uri": "https://dns.internal.hosmatic.com/dns-query",
+		"bootstrap_1": "37.114.32.8"
+	},
+	"InternetInitiativeJapan" : {
+		"id": 239,
+		"name": "InternetInitiativeJapan",
+		"uri": "https://public.dns.iij.jp/dns-query",
+		"bootstrap_1": "103.2.57.6",
+		"bootstrap_2": "103.2.57.5"
+	},
+	"is.my.waifu.cz" : {
+		"id": 240,
+		"name": "is.my.waifu.cz",
+		"uri": "https://aqua.is.my.waifu.cz/dns-query",
+		"bootstrap_1": "124.217.247.170"
+	},
+	"is.my.waifu.cz_2" : {
+		"id": 241,
+		"name": "is.my.waifu.cz_2",
+		"uri": "https://megumin.is.my.waifu.cz/dns-query",
+		"bootstrap_1": "194.102.181.16"
+	},
+	"is.my.waifu.cz_3" : {
+		"id": 242,
+		"name": "is.my.waifu.cz_3",
+		"uri": "https://yunyun.is.my.waifu.cz/dns-query",
+		"bootstrap_1": "43.225.108.171"
+	},
+	"iStoreOS" : {
+		"id": 243,
+		"name": "iStoreOS",
+		"uri": "https://dns.354688.xyz/dns-query",
+		"bootstrap_1": "150.230.197.227"
+	},
+	"ITXE" : {
+		"id": 244,
+		"name": "ITXE",
+		"uri": "https://pdns.itxe.net/dns-query",
+		"bootstrap_1": "36.156.184.156",
+		"bootstrap_2": "221.131.165.165"
+	},
+	"JackStockley" : {
+		"id": 245,
+		"name": "JackStockley",
+		"uri": "https://dns.jstockley.com/dns-query",
+		"bootstrap_1": "172.67.203.156",
+		"bootstrap_2": "104.21.69.35"
+	},
+	"Jackyes.ovh" : {
+		"id": 246,
+		"name": "Jackyes.ovh",
+		"uri": "https://jackyes.ovh/dns-query",
+		"bootstrap_1": "37.187.108.188"
+	},
+	"jambi.undo.it" : {
+		"id": 247,
+		"name": "jambi.undo.it",
+		"uri": "https://jambi.undo.it/dns-query",
+		"bootstrap_1": "192.9.166.219"
+	},
+	"JanHodouš" : {
+		"id": 248,
+		"name": "JanHodouš",
+		"uri": "https://dns.rhscz.eu/dns-query",
+		"bootstrap_1": "144.21.35.153"
+	},
+	"Jfchenier.ca" : {
+		"id": 249,
+		"name": "Jfchenier.ca",
+		"uri": "https://adguard.jfchenier.ca/dns-query",
+		"bootstrap_1": "184.163.126.251"
+	},
+	"jimtay.uk" : {
+		"id": 250,
+		"name": "jimtay.uk",
+		"uri": "https://adguardo.jimtay.uk/dns-query",
+		"bootstrap_1": "141.147.86.181"
+	},
+	"JonasHahnfeld" : {
+		"id": 251,
+		"name": "JonasHahnfeld",
+		"uri": "https://dns.hahnjo.de/dns-query",
+		"bootstrap_1": "193.30.122.186"
+	},
+	"jp.tiar.app" : {
+		"id": 252,
+		"name": "jp.tiar.app",
+		"uri": "https://jp.tiar.app/dns-query",
+		"bootstrap_1": "172.104.93.80"
+	},
+	"jp.tiar.app_2" : {
+		"id": 253,
+		"name": "jp.tiar.app_2",
+		"uri": "https://jp.tiarap.org/dns-query",
+		"bootstrap_1": "172.67.173.59",
+		"bootstrap_2": "104.21.30.162"
+	},
+	"jundev.org" : {
+		"id": 254,
+		"name": "jundev.org",
+		"uri": "https://dns.jundev.org/dns-query",
+		"bootstrap_1": "114.33.26.67"
+	},
+	"JustinCounts" : {
+		"id": 255,
+		"name": "JustinCounts",
+		"uri": "https://ad.justincounts.com/dns-query",
+		"bootstrap_1": "44.232.93.239"
+	},
+	"Karl.ONE" : {
+		"id": 256,
+		"name": "Karl.ONE",
+		"uri": "https://dns.karl.one/dns-query",
+		"bootstrap_1": "188.68.33.96"
+	},
+	"Kernel-error" : {
+		"id": 257,
+		"name": "Kernel-error",
+		"uri": "https://dns.kernel-error.de/dns-query",
+		"bootstrap_1": "37.120.183.220"
+	},
+	"kescherDNS" : {
+		"id": 258,
+		"name": "kescherDNS",
+		"uri": "https://dns.kescher.at/dns-query",
+		"bootstrap_1": "89.58.18.85"
+	},
+	"Kiboko" : {
+		"id": 259,
+		"name": "Kiboko",
+		"uri": "https://adguard.kiboko.it/dns-query",
+		"bootstrap_1": "49.13.60.236"
+	},
+	"Kishore" : {
+		"id": 260,
+		"name": "Kishore",
+		"uri": "https://adguard.avdkishore.dev/dns-query",
+		"bootstrap_1": "172.105.52.109"
+	},
+	"klcd.eu" : {
+		"id": 261,
+		"name": "klcd.eu",
+		"uri": "https://dns1.klcd.eu/dns-query",
+		"bootstrap_1": "141.144.195.178"
+	},
+	"klcd.eu_2" : {
+		"id": 262,
+		"name": "klcd.eu_2",
+		"uri": "https://dns2.klcd.eu/dns-query",
+		"bootstrap_1": "144.24.180.116"
+	},
+	"Konikoni428" : {
+		"id": 263,
+		"name": "Konikoni428",
+		"uri": "https://adguard.konikoni428.com/dns-query",
+		"bootstrap_1": "202.182.121.233"
+	},
+	"korzhyk.pp.ua" : {
+		"id": 264,
+		"name": "korzhyk.pp.ua",
+		"uri": "https://dns.korzhyk.pp.ua/dns-query",
+		"bootstrap_1": "82.118.21.196"
+	},
+	"Krnl.eu" : {
+		"id": 265,
+		"name": "Krnl.eu",
+		"uri": "https://xray.krnl.eu/dns-query",
+		"bootstrap_1": "89.58.41.122"
+	},
+	"KrzysztofSkrzypiec" : {
+		"id": 266,
+		"name": "KrzysztofSkrzypiec",
+		"uri": "https://dns.skrzypiec.pl/dns-query",
+		"bootstrap_1": "31.63.119.179"
+	},
+	"KvQ" : {
+		"id": 267,
+		"name": "KvQ",
+		"uri": "https://dns4.imkvq.com/dns-query",
+		"bootstrap_1": "103.208.86.63"
+	},
+	"l337.site" : {
+		"id": 268,
+		"name": "l337.site",
+		"uri": "https://dns.l337.site/dns-query",
+		"bootstrap_1": "185.195.69.126"
+	},
+	"LaContre-Voie" : {
+		"id": 269,
+		"name": "LaContre-Voie",
+		"uri": "https://doh.lacontrevoie.fr/dns-query",
+		"bootstrap_1": "45.155.171.163"
+	},
+	"Lashes&brow" : {
+		"id": 270,
+		"name": "Lashes&brow",
+		"uri": "https://dns.lashes-brow.ru/dns-query",
+		"bootstrap_1": "137.74.151.70"
+	},
+	"Lastentarvike" : {
+		"id": 271,
+		"name": "Lastentarvike",
+		"uri": "https://lastentarvike.fi/dns-query",
+		"bootstrap_1": "194.100.93.136"
+	},
+	"LavaDNS" : {
+		"id": 272,
+		"name": "LavaDNS",
+		"uri": "https://eu1.dns.lavate.ch/dns-query",
+		"bootstrap_1": "95.217.25.217"
+	},
+	"leenit.kr" : {
+		"id": 273,
+		"name": "leenit.kr",
+		"uri": "https://adblock.leenit.kr/dns-query",
+		"bootstrap_1": "124.61.132.133"
+	},
+	"lege.despagne.net" : {
+		"id": 274,
+		"name": "lege.despagne.net",
+		"uri": "https://adguard.lege.despagne.net/dns-query",
+		"bootstrap_1": "82.66.195.182"
+	},
+	"lgprk.com" : {
+		"id": 275,
+		"name": "lgprk.com",
+		"uri": "https://dns.lgprk.com/dns-query",
+		"bootstrap_1": "213.226.127.98"
+	},
+	"LibreDNS" : {
+		"id": 276,
+		"name": "LibreDNS",
+		"uri": "https://doh.libredns.gr/dns-query",
+		"bootstrap_1": "116.202.176.26"
+	},
+	"LibreDNS_2" : {
+		"id": 277,
+		"name": "LibreDNS_2",
+		"uri": "https://doh.libredns.gr/noads",
+		"bootstrap_1": "116.202.176.26"
+	},
+	"Lindung" : {
+		"id": 278,
+		"name": "Lindung",
+		"uri": "https://lindung.pp.ua/dns-query",
+		"bootstrap_1": "172.67.166.14",
+		"bootstrap_2": "104.21.16.31"
+	},
+	"Lindung_2" : {
+		"id": 279,
+		"name": "Lindung_2",
+		"uri": "https://lindung.pp.ua/family",
+		"bootstrap_1": "172.67.166.14",
+		"bootstrap_2": "104.21.16.31"
+	},
+	"linzefeng.top" : {
+		"id": 280,
+		"name": "linzefeng.top",
+		"uri": "https://dns2.linzefeng.top/dns-query",
+		"bootstrap_1": "172.67.180.205",
+		"bootstrap_2": "104.21.18.73"
+	},
+	"Lista" : {
+		"id": 281,
+		"name": "Lista",
+		"uri": "https://dns.lista.my.id/dns-query",
+		"bootstrap_1": "172.67.216.46",
+		"bootstrap_2": "104.21.45.153"
+	},
+	"Lista_2" : {
+		"id": 282,
+		"name": "Lista_2",
+		"uri": "https://adguard.lista.my.id/dns-query",
+		"bootstrap_1": "104.21.45.153",
+		"bootstrap_2": "172.67.216.46"
+	},
+	"Lista_3" : {
+		"id": 283,
+		"name": "Lista_3",
+		"uri": "https://onic-doh.lista.my.id/dns-query",
+		"bootstrap_1": "104.21.45.153",
+		"bootstrap_2": "172.67.216.46"
+	},
+	"Lista_4" : {
+		"id": 284,
+		"name": "Lista_4",
+		"uri": "https://adguard.lista.my.id/dns-query/opennic",
+		"bootstrap_1": "104.21.45.153",
+		"bootstrap_2": "172.67.216.46"
+	},
+	"londonwebnerd.cloud" : {
+		"id": 285,
+		"name": "londonwebnerd.cloud",
+		"uri": "https://adguard.londonwebnerd.cloud/dns-query",
+		"bootstrap_1": "159.89.249.198",
+		"bootstrap_2": "188.166.148.1"
+	},
+	"loNET" : {
+		"id": 286,
+		"name": "loNET",
+		"uri": "https://doh.phdns1.lonet.org/dns-query",
+		"bootstrap_1": "185.183.156.85"
+	},
+	"loNET_2" : {
+		"id": 287,
+		"name": "loNET_2",
+		"uri": "https://doh.phdns2.lonet.org/dns-query",
+		"bootstrap_1": "217.160.191.192"
+	},
+	"loNET_3" : {
+		"id": 288,
+		"name": "loNET_3",
+		"uri": "https://doh.phdns3.lonet.org/dns-query",
+		"bootstrap_1": "74.208.85.60"
+	},
+	"loNET_4" : {
+		"id": 289,
+		"name": "loNET_4",
+		"uri": "https://doh.phdns4.lonet.org/dns-query",
+		"bootstrap_1": "82.223.114.172"
+	},
+	"loNET_5" : {
+		"id": 290,
+		"name": "loNET_5",
+		"uri": "https://doh.phdns5.lonet.org/dns-query",
+		"bootstrap_1": "77.68.116.22"
+	},
+	"lothuscorp.com.br" : {
+		"id": 291,
+		"name": "lothuscorp.com.br",
+		"uri": "https://dns1.lothuscorp.com.br/dns-query",
+		"bootstrap_1": "172.67.130.99",
+		"bootstrap_2": "104.21.8.83"
+	},
+	"lov.host" : {
+		"id": 292,
+		"name": "lov.host",
+		"uri": "https://ns.lov.host/dns-query",
+		"bootstrap_1": "193.122.122.49"
+	},
+	"lvolland.fr" : {
+		"id": 293,
+		"name": "lvolland.fr",
+		"uri": "https://dns.lvolland.fr/dns-query",
+		"bootstrap_1": "162.19.95.28"
+	},
+	"maige.fun" : {
+		"id": 294,
+		"name": "maige.fun",
+		"uri": "https://adhome.maige.fun/dns-query",
+		"bootstrap_1": "111.230.99.217"
+	},
+	"marto.si" : {
+		"id": 295,
+		"name": "marto.si",
+		"uri": "https://adguard.marto.si/dns-query",
+		"bootstrap_1": "212.44.107.17"
+	},
+	"MastersofCloud" : {
+		"id": 296,
+		"name": "MastersofCloud",
+		"uri": "https://masters-of-cloud.de/dns-query",
+		"bootstrap_1": "185.244.195.159"
+	},
+	"mathewakhil.online" : {
+		"id": 297,
+		"name": "mathewakhil.online",
+		"uri": "https://dns.mathewakhil.online/dns-query",
+		"bootstrap_1": "3.25.254.32"
+	},
+	"mattiafenzi.uk" : {
+		"id": 298,
+		"name": "mattiafenzi.uk",
+		"uri": "https://adguard.mattiafenzi.uk/dns-query",
+		"bootstrap_1": "104.21.33.135",
+		"bootstrap_2": "172.67.190.28"
+	},
+	"MaxPhilippWriedt" : {
+		"id": 299,
+		"name": "MaxPhilippWriedt",
+		"uri": "https://home.wriedts.de/dns-query",
+		"bootstrap_1": "91.106.132.245"
+	},
+	"maxfong.cc" : {
+		"id": 300,
+		"name": "maxfong.cc",
+		"uri": "https://www.maxfong.cc/dns-query",
+		"bootstrap_1": "172.67.129.145",
+		"bootstrap_2": "104.21.2.189"
+	},
+	"MaxindoMitraSolusi" : {
+		"id": 301,
+		"name": "MaxindoMitraSolusi",
+		"uri": "https://doh.max.net.id/dns-query",
+		"bootstrap_1": "103.102.15.8"
+	},
+	"meddy94.de" : {
+		"id": 302,
+		"name": "meddy94.de",
+		"uri": "https://adguard.meddy94.de/dns-query",
+		"bootstrap_1": "130.61.24.160"
+	},
+	"MegaNerd" : {
+		"id": 303,
+		"name": "MegaNerd",
+		"uri": "https://snoke.meganerd.nl/dns-query",
+		"bootstrap_1": "95.179.131.82"
+	},
+	"memorialus.eu.org" : {
+		"id": 304,
+		"name": "memorialus.eu.org",
+		"uri": "https://www.memorialus.eu.org/dns-query",
+		"bootstrap_1": "141.11.211.57"
+	},
+	"MERCURY" : {
+		"id": 305,
+		"name": "MERCURY",
+		"uri": "https://ns.mtsoln.com/dns-query",
+		"bootstrap_1": "104.26.0.250",
+		"bootstrap_2": "104.26.1.250",
+		"bootstrap_3": "172.67.71.75"
+	},
+	"mestdag.fr" : {
+		"id": 306,
+		"name": "mestdag.fr",
+		"uri": "https://dns.mestdag.fr/dns-query",
+		"bootstrap_1": "82.66.85.10"
+	},
+	"mikrotikrumahan.my.id" : {
+		"id": 307,
+		"name": "mikrotikrumahan.my.id",
+		"uri": "https://dns.mikrotikrumahan.my.id/dns-query",
+		"bootstrap_1": "149.28.144.189"
+	},
+	"milangeorge.com" : {
+		"id": 308,
+		"name": "milangeorge.com",
+		"uri": "https://dns.milangeorge.com/dns-query",
+		"bootstrap_1": "45.95.174.103"
+	},
+	"milkpie.one" : {
+		"id": 309,
+		"name": "milkpie.one",
+		"uri": "https://dns.milkpie.one/dns-query",
+		"bootstrap_1": "74.211.108.27"
+	},
+	"minilla.store" : {
+		"id": 310,
+		"name": "minilla.store",
+		"uri": "https://minilla.store/dns-query",
+		"bootstrap_1": "3.15.159.180"
+	},
+	"mismat.ch" : {
+		"id": 311,
+		"name": "mismat.ch",
+		"uri": "https://netcup.mismat.ch/dns-query",
+		"bootstrap_1": "152.89.104.20"
+	},
+	"mIT" : {
+		"id": 312,
+		"name": "mIT",
+		"uri": "https://addns1.m-it.ro/dns-query",
+		"bootstrap_1": "81.196.104.182"
+	},
+	"MJJ" : {
+		"id": 313,
+		"name": "MJJ",
+		"uri": "https://5g.o0o.re/dns-query",
+		"bootstrap_1": "182.255.33.202"
+	},
+	"mo0on15.com" : {
+		"id": 314,
+		"name": "mo0on15.com",
+		"uri": "https://dns.mo0on15.com/dns-query",
+		"bootstrap_1": "217.160.242.249"
+	},
+	"mobyds.com" : {
+		"id": 315,
+		"name": "mobyds.com",
+		"uri": "https://query.mobyds.com/dns-query",
+		"bootstrap_1": "103.79.78.248"
+	},
+	"moderateinfra.net" : {
+		"id": 316,
+		"name": "moderateinfra.net",
+		"uri": "https://nue2.moderateinfra.net/dns-query",
+		"bootstrap_1": "152.89.107.99"
+	},
+	"modr.club" : {
+		"id": 317,
+		"name": "modr.club",
+		"uri": "https://ps1.modr.club/dns-query",
+		"bootstrap_1": "146.190.225.122"
+	},
+	"Molinero" : {
+		"id": 318,
+		"name": "Molinero",
+		"uri": "https://dns.molinero.dev/dns-query",
+		"bootstrap_1": "168.119.96.125"
+	},
+	"momokko.moe" : {
+		"id": 319,
+		"name": "momokko.moe",
+		"uri": "https://naganohara-yoimiya.momokko.moe/dns-query",
+		"bootstrap_1": "198.23.146.171"
+	},
+	"Mullvad" : {
+		"id": 320,
+		"name": "Mullvad",
+		"uri": "https://dns.mullvad.net/dns-query",
+		"bootstrap_1": "194.242.2.2"
+	},
+	"Mullvad_2" : {
+		"id": 321,
+		"name": "Mullvad_2",
+		"uri": "https://adblock.dns.mullvad.net/dns-query",
+		"bootstrap_1": "194.242.2.3"
+	},
+	"Mullvad_3" : {
+		"id": 322,
+		"name": "Mullvad_3",
+		"uri": "https://base.dns.mullvad.net/dns-query",
+		"bootstrap_1": "194.242.2.4"
+	},
+	"Mullvad_4" : {
+		"id": 323,
+		"name": "Mullvad_4",
+		"uri": "https://extended.dns.mullvad.net/dns-query",
+		"bootstrap_1": "194.242.2.5"
+	},
+	"Mullvad_5" : {
+		"id": 324,
+		"name": "Mullvad_5",
+		"uri": "https://all.dns.mullvad.net/dns-query",
+		"bootstrap_1": "194.242.2.9"
+	},
+	"mydns.network" : {
+		"id": 325,
+		"name": "mydns.network",
+		"uri": "https://freedom.mydns.network/dns-query",
+		"bootstrap_1": "104.22.75.155",
+		"bootstrap_2": "104.22.74.155",
+		"bootstrap_3": "172.67.30.153"
+	},
+	"mydns.network_2" : {
+		"id": 326,
+		"name": "mydns.network_2",
+		"uri": "https://paranoia.mydns.network/dns-query",
+		"bootstrap_1": "104.22.74.155",
+		"bootstrap_2": "172.67.30.153",
+		"bootstrap_3": "104.22.75.155"
+	},
+	"mydns.network_3" : {
+		"id": 327,
+		"name": "mydns.network_3",
+		"uri": "https://adblock.mydns.network/dns-query",
+		"bootstrap_1": "172.67.30.153",
+		"bootstrap_2": "104.22.75.155",
+		"bootstrap_3": "104.22.74.155"
+	},
+	"mydns.network_4" : {
+		"id": 328,
+		"name": "mydns.network_4",
+		"uri": "https://family.mydns.network/dns-query",
+		"bootstrap_1": "104.22.75.155",
+		"bootstrap_2": "172.67.30.153",
+		"bootstrap_3": "104.22.74.155"
+	},
+	"Myon" : {
+		"id": 329,
+		"name": "Myon",
+		"uri": "https://blackhole.myon.lu/dns-query",
+		"bootstrap_1": "45.133.117.91"
+	},
+	"narl.app" : {
+		"id": 330,
+		"name": "narl.app",
+		"uri": "https://dns.narl.app/dns-query",
+		"bootstrap_1": "74.208.208.172"
+	},
+	"ndom91" : {
+		"id": 331,
+		"name": "ndom91",
+		"uri": "https://dns.ndo.dev/dns-query",
+		"bootstrap_1": "185.121.71.99"
+	},
+	"netcat" : {
+		"id": 332,
+		"name": "netcat",
+		"uri": "https://netcat.one/dns-query",
+		"bootstrap_1": "192.210.241.89"
+	},
+	"Nexific.it" : {
+		"id": 333,
+		"name": "Nexific.it",
+		"uri": "https://doh.luigi.nexific.it/dns-query",
+		"bootstrap_1": "188.34.183.35"
+	},
+	"NextDNS" : {
+		"id": 334,
+		"name": "NextDNS",
+		"uri": "https://dns.nextdns.io",
+		"bootstrap_1": "43.229.79.19",
+		"bootstrap_2": "116.204.183.61"
+	},
+	"Nhtsky" : {
+		"id": 335,
+		"name": "Nhtsky",
+		"uri": "https://dns.nhtsky.com/dns-query",
+		"bootstrap_1": "158.101.157.9"
+	},
+	"NIC.LV" : {
+		"id": 336,
+		"name": "NIC.LV",
+		"uri": "https://doh.lv/dns-query",
+		"bootstrap_1": "91.198.156.20"
+	},
+	"NIC.LV_2" : {
+		"id": 337,
+		"name": "NIC.LV_2",
+		"uri": "https://doh.nic.lv/dns-query",
+		"bootstrap_1": "91.198.156.20"
+	},
+	"nielsdb.be" : {
+		"id": 338,
+		"name": "nielsdb.be",
+		"uri": "https://dns1.nielsdb.be/dns-query",
+		"bootstrap_1": "141.148.236.153"
+	},
+	"NiYaWe" : {
+		"id": 339,
+		"name": "NiYaWe",
+		"uri": "https://doh.niyawe.de/dns-query",
+		"bootstrap_1": "213.239.221.173",
+		"bootstrap_2": "23.88.6.31"
+	},
+	"Njalla" : {
+		"id": 340,
+		"name": "Njalla",
+		"uri": "https://dns.njal.la/dns-query",
+		"bootstrap_1": "95.215.19.53"
+	},
+	"NoAdDNS" : {
+		"id": 341,
+		"name": "NoAdDNS",
+		"uri": "https://resolver.noaddns.com/dns-query",
+		"bootstrap_1": "104.248.40.238"
+	},
+	"Node15" : {
+		"id": 342,
+		"name": "Node15",
+		"uri": "https://pi1.node15.com/dns-query",
+		"bootstrap_1": "51.140.47.46"
+	},
+	"Noridev" : {
+		"id": 343,
+		"name": "Noridev",
+		"uri": "https://1.dns.noridev.moe/dns-query",
+		"bootstrap_1": "220.84.185.202"
+	},
+	"novali.date" : {
+		"id": 344,
+		"name": "novali.date",
+		"uri": "https://dns.novali.date/dns-query",
+		"bootstrap_1": "23.94.211.166"
+	},
+	"ofdoom.net" : {
+		"id": 345,
+		"name": "ofdoom.net",
+		"uri": "https://dns.ofdoom.net/dns-query",
+		"bootstrap_1": "152.70.156.129"
+	},
+	"oms-ctr.ru" : {
+		"id": 346,
+		"name": "oms-ctr.ru",
+		"uri": "https://adguard.oms-ctr.ru/dns-query",
+		"bootstrap_1": "51.89.26.38"
+	},
+	"OneDNS.cc" : {
+		"id": 347,
+		"name": "OneDNS.cc",
+		"uri": "https://secure.onedns.cc/dns-query",
+		"bootstrap_1": "15.165.113.96"
+	},
+	"OpenBLD.net" : {
+		"id": 348,
+		"name": "OpenBLD.net",
+		"uri": "https://ada.openbld.net/dns-query",
+		"bootstrap_1": "46.151.29.15",
+		"bootstrap_2": "185.192.97.172",
+		"bootstrap_3": "91.197.1.19"
+	},
+	"OpenBLD.net_2" : {
+		"id": 349,
+		"name": "OpenBLD.net_2",
+		"uri": "https://ric.openbld.net/dns-query",
+		"bootstrap_1": "188.130.234.184",
+		"bootstrap_2": "116.203.84.65"
+	},
+	"orangepipc" : {
+		"id": 350,
+		"name": "orangepipc",
+		"uri": "https://fwgw.orangepipc.mywire.org/dns-query",
+		"bootstrap_1": "113.211.77.37"
+	},
+	"ours.luxe" : {
+		"id": 351,
+		"name": "ours.luxe",
+		"uri": "https://dns.ours.luxe/dns-query",
+		"bootstrap_1": "149.104.24.210"
+	},
+	"outdoorchair.us" : {
+		"id": 352,
+		"name": "outdoorchair.us",
+		"uri": "https://outdoorchair.us/dns-query",
+		"bootstrap_1": "104.21.3.73",
+		"bootstrap_2": "172.67.130.117"
+	},
+	"ovpn.bond" : {
+		"id": 353,
+		"name": "ovpn.bond",
+		"uri": "https://dns.ovpn.bond/dns-query",
+		"bootstrap_1": "67.184.39.239"
+	},
+	"PaesaDNS" : {
+		"id": 354,
+		"name": "PaesaDNS",
+		"uri": "https://dns.paesa.es/dns-query",
+		"bootstrap_1": "104.21.32.35",
+		"bootstrap_2": "172.67.182.154"
+	},
+	"PathofGrace" : {
+		"id": 355,
+		"name": "PathofGrace",
+		"uri": "https://doh.gcp.pathofgrace.com/dns-query",
+		"bootstrap_1": "34.151.118.101"
+	},
+	"pernika.net" : {
+		"id": 356,
+		"name": "pernika.net",
+		"uri": "https://dns.pernika.net/dns-query",
+		"bootstrap_1": "103.143.170.180"
+	},
+	"PersianNIT" : {
+		"id": 357,
+		"name": "PersianNIT",
+		"uri": "https://darya.persiannit.net/dns-query",
+		"bootstrap_1": "138.201.145.190"
+	},
+	"pietjacobs.be" : {
+		"id": 358,
+		"name": "pietjacobs.be",
+		"uri": "https://dns1.pietjacobs.be/dns-query",
+		"bootstrap_1": "143.47.188.43"
+	},
+	"PleumKungZ" : {
+		"id": 359,
+		"name": "PleumKungZ",
+		"uri": "https://secure-dns.pleumkungz.com/dns-query",
+		"bootstrap_1": "154.90.44.84"
+	},
+	"PragmaSEC" : {
+		"id": 360,
+		"name": "PragmaSEC",
+		"uri": "https://dns.pragmasec.nl/dns-query",
+		"bootstrap_1": "85.215.66.120"
+	},
+	"privado.ovh" : {
+		"id": 361,
+		"name": "privado.ovh",
+		"uri": "https://orpi.privado.ovh/dns-query",
+		"bootstrap_1": "45.155.169.132"
+	},
+	"pukanuragan.ru" : {
+		"id": 362,
+		"name": "pukanuragan.ru",
+		"uri": "https://www.pukanuragan.ru/dns-query",
+		"bootstrap_1": "85.193.93.93"
+	},
+	"puregeni.us" : {
+		"id": 363,
+		"name": "puregeni.us",
+		"uri": "https://dns-privacy.puregeni.us/dns-query",
+		"bootstrap_1": "198.244.189.180"
+	},
+	"pyio.top" : {
+		"id": 364,
+		"name": "pyio.top",
+		"uri": "https://ad.pyio.top/dns-query",
+		"bootstrap_1": "64.176.195.119"
+	},
+	"Qihoo360" : {
+		"id": 365,
+		"name": "Qihoo360",
+		"uri": "https://doh.360.cn/dns-query",
+		"bootstrap_1": "101.198.192.33",
+		"bootstrap_2": "101.198.193.29"
+	},
+	"qquackDNS" : {
+		"id": 366,
+		"name": "qquackDNS",
+		"uri": "https://ns1.qquack.org/dns-query",
+		"bootstrap_1": "193.122.96.153"
+	},
+	"Quad9" : {
+		"id": 367,
+		"name": "Quad9",
+		"uri": "https://dns.quad9.net/dns-query",
+		"bootstrap_1": "9.9.9.9",
+		"bootstrap_2": "149.112.112.112"
+	},
+	"quic.lol" : {
+		"id": 368,
+		"name": "quic.lol",
+		"uri": "https://quic.lol/dns-query",
+		"bootstrap_1": "38.55.96.127"
+	},
+	"QWERDNS" : {
+		"id": 369,
+		"name": "QWERDNS",
+		"uri": "https://ant.dns.qwer.pw/dns-query",
+		"bootstrap_1": "146.56.160.153"
+	},
+	"QWERDNS_2" : {
+		"id": 370,
+		"name": "QWERDNS_2",
+		"uri": "https://dog.dns.qwer.pw/dns-query",
+		"bootstrap_1": "146.56.176.39"
+	},
+	"QWERDNS_3" : {
+		"id": 371,
+		"name": "QWERDNS_3",
+		"uri": "https://lion.dns.qwer.pw/dns-query",
+		"bootstrap_1": "146.56.137.68"
+	},
+	"QWERDNS_4" : {
+		"id": 372,
+		"name": "QWERDNS_4",
+		"uri": "https://tiger.dns.qwer.pw/dns-query",
+		"bootstrap_1": "132.145.83.120"
+	},
+	"QWERDNS_5" : {
+		"id": 373,
+		"name": "QWERDNS_5",
+		"uri": "https://frog.dns.qwer.pw/dns-query",
+		"bootstrap_1": "140.238.10.79"
+	},
+	"R0cket" : {
+		"id": 374,
+		"name": "R0cket",
+		"uri": "https://resolver.r0cket.net/dns-query",
+		"bootstrap_1": "185.243.23.151"
+	},
+	"ragnvindr.org" : {
+		"id": 375,
+		"name": "ragnvindr.org",
+		"uri": "https://inde.ragnvindr.org/dns-query",
+		"bootstrap_1": "5.252.227.112"
+	},
+	"RAL9005" : {
+		"id": 376,
+		"name": "RAL9005",
+		"uri": "https://ns.ral9005.org/dns-query",
+		"bootstrap_1": "130.162.39.94"
+	},
+	"RaspTV" : {
+		"id": 377,
+		"name": "RaspTV",
+		"uri": "https://emby.rasp.tv/dns-query",
+		"bootstrap_1": "132.145.98.168"
+	},
+	"ray0512.win" : {
+		"id": 378,
+		"name": "ray0512.win",
+		"uri": "https://jp.ray0512.win/dns-query",
+		"bootstrap_1": "185.212.59.248"
+	},
+	"ray0512.win_2" : {
+		"id": 379,
+		"name": "ray0512.win_2",
+		"uri": "https://la.ray0512.win/dns-query",
+		"bootstrap_1": "154.17.0.96"
+	},
+	"Restena" : {
+		"id": 380,
+		"name": "Restena",
+		"uri": "https://kaitain.restena.lu/dns-query",
+		"bootstrap_1": "158.64.1.29"
+	},
+	"RetakeCS" : {
+		"id": 381,
+		"name": "RetakeCS",
+		"uri": "https://dns.retakecs.com/dns-query",
+		"bootstrap_1": "144.22.212.131"
+	},
+	"RethinkDNS" : {
+		"id": 382,
+		"name": "RethinkDNS",
+		"uri": "https://sky.rethinkdns.com/dns-query",
+		"bootstrap_1": "172.64.135.39",
+		"bootstrap_2": "172.64.134.39"
+	},
+	"RethinkDNS_2" : {
+		"id": 383,
+		"name": "RethinkDNS_2",
+		"uri": "https://sky.rethinkdns.com/1",
+		"bootstrap_1": "172.64.135.39",
+		"bootstrap_2": "172.64.134.39"
+	},
+	"Rezhajul" : {
+		"id": 384,
+		"name": "Rezhajul",
+		"uri": "https://doh.rezhajul.io/dns-query",
+		"bootstrap_1": "46.250.236.61"
+	},
+	"rferee.dev" : {
+		"id": 385,
+		"name": "rferee.dev",
+		"uri": "https://resolver.rferee.dev/dns-query/",
+		"bootstrap_1": "88.198.234.122"
+	},
+	"Rick" : {
+		"id": 386,
+		"name": "Rick",
+		"uri": "https://h.gjrick.tw/dns-query",
+		"bootstrap_1": "122.254.0.63"
+	},
+	"Rin.sh" : {
+		"id": 387,
+		"name": "Rin.sh",
+		"uri": "https://dns.rin.sh/dns-query",
+		"bootstrap_1": "116.203.72.235"
+	},
+	"RoTunneling" : {
+		"id": 388,
+		"name": "RoTunneling",
+		"uri": "https://dns.rotunneling.net/dns-query/public",
+		"bootstrap_1": "172.66.42.222",
+		"bootstrap_2": "172.66.41.34"
+	},
+	"russel053" : {
+		"id": 389,
+		"name": "russel053",
+		"uri": "https://agh-yz.russel053.com/dns-query",
+		"bootstrap_1": "103.1.223.110"
+	},
+	"sac.rebl.eu.org" : {
+		"id": 390,
+		"name": "sac.rebl.eu.org",
+		"uri": "https://dns.sac.rebl.eu.org/dns-query",
+		"bootstrap_1": "167.86.90.154"
+	},
+	"SafeSurfer" : {
+		"id": 391,
+		"name": "SafeSurfer",
+		"uri": "https://doh.safesurfer.io/dns-query",
+		"bootstrap_1": "35.227.226.142"
+	},
+	"saferbfc.org" : {
+		"id": 392,
+		"name": "saferbfc.org",
+		"uri": "https://dns2.saferbfc.org/dns-query",
+		"bootstrap_1": "188.165.53.130"
+	},
+	"SafeServe" : {
+		"id": 393,
+		"name": "SafeServe",
+		"uri": "https://safeservedns.com/dns-query",
+		"bootstrap_1": "198.54.117.10",
+		"bootstrap_2": "198.54.117.11"
+	},
+	"Saikat" : {
+		"id": 394,
+		"name": "Saikat",
+		"uri": "https://o.rsaikat.com/dns-query",
+		"bootstrap_1": "150.136.138.221"
+	},
+	"sarak.as" : {
+		"id": 395,
+		"name": "sarak.as",
+		"uri": "https://dns.sarak.as/dns-query",
+		"bootstrap_1": "70.253.80.157",
+		"bootstrap_2": "70.253.80.158"
+	},
+	"Scarx" : {
+		"id": 396,
+		"name": "Scarx",
+		"uri": "https://dns.scarx.net/dns-query",
+		"bootstrap_1": "78.47.91.55"
+	},
+	"schlagheck.berlin" : {
+		"id": 397,
+		"name": "schlagheck.berlin",
+		"uri": "https://dns.schlagheck.berlin/dns-query",
+		"bootstrap_1": "168.119.244.55"
+	},
+	"Scuola.org" : {
+		"id": 398,
+		"name": "Scuola.org",
+		"uri": "https://dns.scuola.org/dns-query",
+		"bootstrap_1": "94.23.71.64"
+	},
+	"servebeer.com" : {
+		"id": 399,
+		"name": "servebeer.com",
+		"uri": "https://privatnas.servebeer.com/dns-query",
+		"bootstrap_1": "46.125.60.156"
+	},
+	"sev.monster" : {
+		"id": 400,
+		"name": "sev.monster",
+		"uri": "https://dns.sev.monster/dns-query",
+		"bootstrap_1": "168.235.111.72"
+	},
+	"shabi.icu" : {
+		"id": 401,
+		"name": "shabi.icu",
+		"uri": "https://d2.shabi.icu/dns-query",
+		"bootstrap_1": "103.118.42.69"
+	},
+	"Shecan" : {
+		"id": 402,
+		"name": "Shecan",
+		"uri": "https://free.shecan.ir/dns-query",
+		"bootstrap_1": "178.22.122.100",
+		"bootstrap_2": "185.51.200.2"
+	},
+	"Shecan_2" : {
+		"id": 403,
+		"name": "Shecan_2",
+		"uri": "https://dns.shecan.ir/dns-query",
+		"bootstrap_1": "178.22.122.100",
+		"bootstrap_2": "185.51.200.2"
+	},
+	"shijiu.asia" : {
+		"id": 404,
+		"name": "shijiu.asia",
+		"uri": "https://shijiu.asia/dns-query",
+		"bootstrap_1": "104.21.51.161",
+		"bootstrap_2": "172.67.182.131"
+	},
+	"shimmerl.top" : {
+		"id": 405,
+		"name": "shimmerl.top",
+		"uri": "https://ymjx.shimmerl.top/dns-query",
+		"bootstrap_1": "8.134.179.45"
+	},
+	"shoupperuser.com" : {
+		"id": 406,
+		"name": "shoupperuser.com",
+		"uri": "https://adguard.shoupperuser.com/dns-query",
+		"bootstrap_1": "50.116.59.251"
+	},
+	"ShrirangKahale" : {
+		"id": 407,
+		"name": "ShrirangKahale",
+		"uri": "https://dns.albony.xyz/dns-query",
+		"bootstrap_1": "45.32.154.224"
+	},
+	"shutgaming.net" : {
+		"id": 408,
+		"name": "shutgaming.net",
+		"uri": "https://adguard.shutgaming.net/dns-query",
+		"bootstrap_1": "37.120.187.202"
+	},
+	"Shuting" : {
+		"id": 409,
+		"name": "Shuting",
+		"uri": "https://adguard.shuting.idv.tw/dns-query",
+		"bootstrap_1": "114.34.178.193"
+	},
+	"Silen.org" : {
+		"id": 410,
+		"name": "Silen.org",
+		"uri": "https://dns.silen.org/dns-query",
+		"bootstrap_1": "104.21.62.158",
+		"bootstrap_2": "172.67.137.18"
+	},
+	"Silentlybren" : {
+		"id": 411,
+		"name": "Silentlybren",
+		"uri": "https://dns.silentlybren.com/dns-query",
+		"bootstrap_1": "172.67.209.173",
+		"bootstrap_2": "104.21.53.69"
+	},
+	"simplylinux.ch" : {
+		"id": 412,
+		"name": "simplylinux.ch",
+		"uri": "https://dns.simplylinux.ch/dns-query",
+		"bootstrap_1": "135.125.181.234"
+	},
+	"siudzinski.net" : {
+		"id": 413,
+		"name": "siudzinski.net",
+		"uri": "https://adg.siudzinski.net/dns-query",
+		"bootstrap_1": "85.11.124.186"
+	},
+	"skrep.eu" : {
+		"id": 414,
+		"name": "skrep.eu",
+		"uri": "https://dns.skrep.eu/dns-query",
+		"bootstrap_1": "5.2.72.7"
+	},
+	"skrep" : {
+		"id": 415,
+		"name": "skrep",
+		"uri": "https://dns.skrep.in/dns-query",
+		"bootstrap_1": "149.154.68.6"
+	},
+	"Slinkyman.net" : {
+		"id": 416,
+		"name": "Slinkyman.net",
+		"uri": "https://dns.slinkyman.net/dns-query",
+		"bootstrap_1": "203.29.240.52"
+	},
+	"Softcom" : {
+		"id": 417,
+		"name": "Softcom",
+		"uri": "https://clientdns3.softcom.net/dns-query",
+		"bootstrap_1": "173.243.64.102"
+	},
+	"songnguyen.name.vn" : {
+		"id": 418,
+		"name": "songnguyen.name.vn",
+		"uri": "https://tokyodns.songnguyen.name.vn/dns-query",
+		"bootstrap_1": "138.2.20.155"
+	},
+	"spacedns.org" : {
+		"id": 419,
+		"name": "spacedns.org",
+		"uri": "https://spacedns.org/dns-query",
+		"bootstrap_1": "54.37.137.4"
+	},
+	"SparshBajaj" : {
+		"id": 420,
+		"name": "SparshBajaj",
+		"uri": "https://adguard.sparshbajaj.me/dns-query",
+		"bootstrap_1": "172.67.139.99",
+		"bootstrap_2": "104.21.65.20"
+	},
+	"sscw.win" : {
+		"id": 421,
+		"name": "sscw.win",
+		"uri": "https://adguard.sscw.win/dns-query",
+		"bootstrap_1": "140.238.52.143"
+	},
+	"sstomp.nl" : {
+		"id": 422,
+		"name": "sstomp.nl",
+		"uri": "https://dns.sstomp.nl/dns-query",
+		"bootstrap_1": "151.80.145.143"
+	},
+	"StartupStack" : {
+		"id": 423,
+		"name": "StartupStack",
+		"uri": "https://dns.startupstack.tech/dns-query",
+		"bootstrap_1": "45.79.102.67"
+	},
+	"sufly.top" : {
+		"id": 424,
+		"name": "sufly.top",
+		"uri": "https://local.sufly.top/dns-query",
+		"bootstrap_1": "47.93.39.229"
+	},
+	"Sundalandia" : {
+		"id": 425,
+		"name": "Sundalandia",
+		"uri": "https://sundalandia.pp.ua/dns-query",
+		"bootstrap_1": "104.21.60.198",
+		"bootstrap_2": "172.67.200.128"
+	},
+	"Sundalandia_2" : {
+		"id": 426,
+		"name": "Sundalandia_2",
+		"uri": "https://sundalandia.pp.ua/family",
+		"bootstrap_1": "104.21.60.198",
+		"bootstrap_2": "172.67.200.128"
+	},
+	"superstefan.win" : {
+		"id": 427,
+		"name": "superstefan.win",
+		"uri": "https://dns.superstefan.win/dns-query",
+		"bootstrap_1": "172.67.202.105",
+		"bootstrap_2": "104.21.37.15"
+	},
+	"swin.pro" : {
+		"id": 428,
+		"name": "swin.pro",
+		"uri": "https://dns.swin.pro/dns-query",
+		"bootstrap_1": "5.161.223.154"
+	},
+	"SWITCH" : {
+		"id": 429,
+		"name": "SWITCH",
+		"uri": "https://dns.switch.ch/dns-query",
+		"bootstrap_1": "130.59.31.251",
+		"bootstrap_2": "130.59.31.248"
+	},
+	"Syaifullah" : {
+		"id": 430,
+		"name": "Syaifullah",
+		"uri": "https://dns.syaifullah.com/dns-query",
+		"bootstrap_1": "45.146.6.147"
+	},
+	"Syshero" : {
+		"id": 431,
+		"name": "Syshero",
+		"uri": "https://doh.syshero.org/dns-query",
+		"bootstrap_1": "167.71.190.157"
+	},
+	"sytes.net" : {
+		"id": 432,
+		"name": "sytes.net",
+		"uri": "https://vanced.sytes.net/dns-query",
+		"bootstrap_1": "172.188.56.178"
+	},
+	"t53.de" : {
+		"id": 433,
+		"name": "t53.de",
+		"uri": "https://dns.t53.de/dns-query",
+		"bootstrap_1": "80.156.145.201"
+	},
+	"TahfizhDaarusSunnah" : {
+		"id": 434,
+		"name": "TahfizhDaarusSunnah",
+		"uri": "https://filter.das.sch.id/dns-query",
+		"bootstrap_1": "69.161.221.111"
+	},
+	"TelekomDeutschland" : {
+		"id": 435,
+		"name": "TelekomDeutschland",
+		"uri": "https://dns.telekom.de/dns-query",
+		"bootstrap_1": "217.0.43.162",
+		"bootstrap_2": "217.0.43.2"
+	},
+	"thebuckners.org" : {
+		"id": 436,
+		"name": "thebuckners.org",
+		"uri": "https://dns.thebuckners.org/dns-query",
+		"bootstrap_1": "172.105.152.133"
+	},
+	"thethorsens.org" : {
+		"id": 437,
+		"name": "thethorsens.org",
+		"uri": "https://blocker.thethorsens.org/dns-query",
+		"bootstrap_1": "134.195.187.39"
+	},
+	"Tiarap" : {
+		"id": 438,
+		"name": "Tiarap",
+		"uri": "https://doh.tiar.app/dns-query",
+		"bootstrap_1": "174.138.29.175"
+	},
+	"Tiarap_2" : {
+		"id": 439,
+		"name": "Tiarap_2",
+		"uri": "https://doh.tiarap.org/dns-query",
+		"bootstrap_1": "104.21.30.162",
+		"bootstrap_2": "172.67.173.59"
+	},
+	"TiendaCHICAGO" : {
+		"id": 440,
+		"name": "TiendaCHICAGO",
+		"uri": "https://pwjbrhie.chicagocomputers.com.ar/dns-query",
+		"bootstrap_1": "208.113.128.9"
+	},
+	"tienpham.id.vn" : {
+		"id": 441,
+		"name": "tienpham.id.vn",
+		"uri": "https://tienpham.id.vn/dns-query",
+		"bootstrap_1": "140.238.3.36"
+	},
+	"Timmes.nl" : {
+		"id": 442,
+		"name": "Timmes.nl",
+		"uri": "https://timmes.nl/dns-query",
+		"bootstrap_1": "95.211.44.91"
+	},
+	"timvo.net" : {
+		"id": 443,
+		"name": "timvo.net",
+		"uri": "https://dns.timvo.net/dns-query",
+		"bootstrap_1": "152.67.110.58"
+	},
+	"Tls-data.de" : {
+		"id": 444,
+		"name": "Tls-data.de",
+		"uri": "https://dns.tls-data.de/dns-query",
+		"bootstrap_1": "91.217.86.4"
+	},
+	"tooli.ca" : {
+		"id": 445,
+		"name": "tooli.ca",
+		"uri": "https://dot.tooli.ca/dns-query",
+		"bootstrap_1": "74.208.31.168"
+	},
+	"trust404.win" : {
+		"id": 446,
+		"name": "trust404.win",
+		"uri": "https://dns.trust404.win/dns-query",
+		"bootstrap_1": "139.162.209.182"
+	},
+	"tryk.app" : {
+		"id": 447,
+		"name": "tryk.app",
+		"uri": "https://dns.tryk.app/dns-query",
+		"bootstrap_1": "158.180.91.241"
+	},
+	"TWNIC" : {
+		"id": 448,
+		"name": "TWNIC",
+		"uri": "https://dns.twnic.tw/dns-query",
+		"bootstrap_1": "101.101.101.101"
+	},
+	"TXQ" : {
+		"id": 449,
+		"name": "TXQ",
+		"uri": "https://dns.txq.life/dns-query",
+		"bootstrap_1": "193.123.255.236",
+		"bootstrap_2": "131.186.19.137",
+		"bootstrap_3": "152.70.37.123"
+	},
+	"tzockt.beer" : {
+		"id": 450,
+		"name": "tzockt.beer",
+		"uri": "https://ad.tzockt.beer/dns-query",
+		"bootstrap_1": "130.61.51.39"
+	},
+	"UnstoppableDomains" : {
+		"id": 451,
+		"name": "UnstoppableDomains",
+		"uri": "https://resolver.unstoppable.io/dns-query",
+		"bootstrap_1": "104.18.166.219",
+		"bootstrap_2": "104.18.165.219"
+	},
+	"unx.io" : {
+		"id": 452,
+		"name": "unx.io",
+		"uri": "https://dns.unx.io/dns-query",
+		"bootstrap_1": "164.90.245.136"
+	},
+	"uradoori.org" : {
+		"id": 453,
+		"name": "uradoori.org",
+		"uri": "https://uradoori.org/dns-query",
+		"bootstrap_1": "172.67.173.9",
+		"bootstrap_2": "104.21.88.51"
+	},
+	"Urology" : {
+		"id": 454,
+		"name": "Urology",
+		"uri": "https://urology.wiki/dns-query",
+		"bootstrap_1": "103.145.61.89"
+	},
+	"VIA" : {
+		"id": 455,
+		"name": "VIA",
+		"uri": "https://doh.viatech.com.tw/dns-query",
+		"bootstrap_1": "124.219.110.49"
+	},
+	"VirgaDNS" : {
+		"id": 456,
+		"name": "VirgaDNS",
+		"uri": "https://virga.pp.ua/dns-query",
+		"bootstrap_1": "140.238.40.138"
+	},
+	"VirgaDNS_2" : {
+		"id": 457,
+		"name": "VirgaDNS_2",
+		"uri": "https://virga.pp.ua/porn",
+		"bootstrap_1": "140.238.40.138"
+	},
+	"vlo.cc" : {
+		"id": 458,
+		"name": "vlo.cc",
+		"uri": "https://dns.vlo.cc/dns-query",
+		"bootstrap_1": "142.171.141.14"
+	},
+	"vpn.geshido.ru" : {
+		"id": 459,
+		"name": "vpn.geshido.ru",
+		"uri": "https://geshido.vpn.geshido.ru/dns-query",
+		"bootstrap_1": "46.161.54.34"
+	},
+	"wahr.top" : {
+		"id": 460,
+		"name": "wahr.top",
+		"uri": "https://dns.wahr.top/dns-query",
+		"bootstrap_1": "192.3.85.97"
+	},
+	"WangArt" : {
+		"id": 461,
+		"name": "WangArt",
+		"uri": "https://dns.wang.art/dns-query",
+		"bootstrap_1": "139.162.109.244"
+	},
+	"wargan.io" : {
+		"id": 462,
+		"name": "wargan.io",
+		"uri": "https://dns.wargan.io/dns-query",
+		"bootstrap_1": "51.15.242.195"
+	},
+	"wehao.net" : {
+		"id": 463,
+		"name": "wehao.net",
+		"uri": "https://resov.wehao.net/dns-query",
+		"bootstrap_1": "45.66.129.121"
+	},
+	"WikimediaDNS" : {
+		"id": 464,
+		"name": "WikimediaDNS",
+		"uri": "https://wikimedia-dns.org/dns-query",
+		"bootstrap_1": "185.71.138.138"
+	},
+	"woodbridge.club" : {
+		"id": 465,
+		"name": "woodbridge.club",
+		"uri": "https://clearweb.woodbridge.club/dns-query",
+		"bootstrap_1": "67.218.159.221"
+	},
+	"xcom.pro" : {
+		"id": 466,
+		"name": "xcom.pro",
+		"uri": "https://doh.xcom.pro/dns-query",
+		"bootstrap_1": "188.165.20.42"
+	},
+	"xx3210766.live" : {
+		"id": 467,
+		"name": "xx3210766.live",
+		"uri": "https://v2.xx3210766.live/dns-query",
+		"bootstrap_1": "173.242.124.6"
+	},
+	"YandexDNS" : {
+		"id": 468,
+		"name": "YandexDNS",
+		"uri": "https://common.dot.dns.yandex.net/dns-query",
+		"bootstrap_1": "77.88.8.8",
+		"bootstrap_2": "77.88.8.1"
+	},
+	"YandexDNS_2" : {
+		"id": 469,
+		"name": "YandexDNS_2",
+		"uri": "https://safe.dot.dns.yandex.net/dns-query",
+		"bootstrap_1": "77.88.8.2",
+		"bootstrap_2": "77.88.8.88"
+	},
+	"YandexDNS_3" : {
+		"id": 470,
+		"name": "YandexDNS_3",
+		"uri": "https://family.dot.dns.yandex.net/dns-query",
+		"bootstrap_1": "77.88.8.7",
+		"bootstrap_2": "77.88.8.3"
+	},
+	"Yarp" : {
+		"id": 471,
+		"name": "Yarp",
+		"uri": "https://yarp.lefolgoc.net/dns-query",
+		"bootstrap_1": "5.39.88.20"
+	},
+	"ychen.gq" : {
+		"id": 472,
+		"name": "ychen.gq",
+		"uri": "https://ychen.gq/dns-query",
+		"bootstrap_1": "107.148.239.213"
+	},
+	"ZijjiSpeed" : {
+		"id": 473,
+		"name": "ZijjiSpeed",
+		"uri": "https://res.zijji.com/dns-query",
+		"bootstrap_1": "107.159.224.149"
+	},
+	"257053.xyz" : {
+		"id": 474,
+		"name": "257053.xyz",
+		"uri": "https://ad.257053.xyz/dns-query",
+		"bootstrap_1": "45.78.22.95"
+	},
+	"4-the.win" : {
+		"id": 475,
+		"name": "4-the.win",
+		"uri": "https://dns.4-the.win/dns-query",
+		"bootstrap_1": "195.90.217.156"
+	},
+	"52306.org" : {
+		"id": 476,
+		"name": "52306.org",
+		"uri": "https://dns.52306.org/dns-query",
+		"bootstrap_1": "135.148.148.66"
+	},
+	"58jdl" : {
+		"id": 477,
+		"name": "58jdl",
+		"uri": "https://dns.58jdl.com/dns-query",
+		"bootstrap_1": "220.158.234.161"
+	},
+	"5ososea" : {
+		"id": 478,
+		"name": "5ososea",
+		"uri": "https://family.5ososea.com/dns-query",
+		"bootstrap_1": "93.177.64.13"
+	},
+	"5ososea_2" : {
+		"id": 479,
+		"name": "5ososea_2",
+		"uri": "https://kids.5ososea.com/dns-query",
+		"bootstrap_1": "188.68.57.106"
+	},
+	"888654.xyz" : {
+		"id": 480,
+		"name": "888654.xyz",
+		"uri": "https://dns.888654.xyz/dns-query",
+		"bootstrap_1": "20.239.160.119"
+	},
+	"@null31" : {
+		"id": 481,
+		"name": "@null31",
+		"uri": "https://ibuki.cgnat.net/dns-query",
+		"bootstrap_1": "144.22.247.219"
+	},
+	"@publicarray" : {
+		"id": 482,
+		"name": "@publicarray",
+		"uri": "https://doh-2.seby.io/dns-query",
+		"bootstrap_1": "45.76.113.31"
+	}
+}
